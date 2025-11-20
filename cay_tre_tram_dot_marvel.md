@@ -5,7 +5,14 @@
 
 ---
 
+![Character Sheet - Khoai](images/1.png)
+![Character Sheet - Bamboo Armor Full Body](images/2.png)
+![Character Sheet - Phú Ông](images/3.png)
+![Character Sheet - Cô Út](images/4.png)
+
 ## Chương 1: Lời Hứa và Sự Phản Bội
+
+![The Promise - Tháp Phú Ông](images/5.png)
 
 Bầu trời trên thành phố Neo Saigon nhuốm màu neon xanh tím, những tòa nhà chọc trời vươn cao như những khổng lồ kim loại. Tại tầng cao nhất của tòa tháp Phú Ông Industries, Khoai - kỹ sư trẻ tuổi nhưng tài năng vượt trội - đang hoàn thành công trình cuối cùng cho trùm công nghệ Phú Ông.
 
@@ -21,6 +28,8 @@ Khoai mỉm cười, ánh mắt nhìn về phía cô con gái của Phú Ông đ
 
 "Tôi muốn sính lễ. Không phải tiền bạc hay vàng bạc. Tôi muốn 'Lõi Năng Lượng Trăm Đốt'."
 
+![The Ultimatum](images/6.png)
+
 Không khí trong phòng đột ngột im bặt. Khoai trợn tròn mắt.
 
 "Thưa ngài, đó chỉ là truyền thuyết... Không ai đã từng tìm thấy nó."
@@ -28,6 +37,8 @@ Không khí trong phòng đột ngột im bặt. Khoai trợn tròn mắt.
 "Chính xác," Phú Ông cười lớn. "Đó là thử thách cuối cùng. Nếu cậu muốn được cưới con gái tôi và trở thành người thừa kế, hãy mang thứ đó đến cho tôi."
 
 Cô Út bước tới, giọng đầy lo lắng: "Cha, người không thể... Rừng Cấm là nơi không ai sống sót trở về!"
+
+![Cô Úts Concern](images/7.png)
 
 "Con im lặng!" Phú Ông quát tháo. "Đây là việc của đàn ông. Khoai sẽ phải chứng tỏ mình xứng đáng."
 
@@ -41,19 +52,29 @@ Khoai hiểu ra. Đây không phải là thử thách. Đây là một lời án
 
 ## Chương 2: Rừng Cấm và Sự Thức Tĩnh
 
+![Journey to Forbidden Zone](images/8.png)
+
 Rừng Cấm là một khu vực bị cô lập bởi bức tường năng lượng cao, nơi chứa đựng tàn tích của một nền văn minh ngoài hành tinh đổ bộ cách đây hàng ngàn năm. Hàng rào an ninh của tập đoàn Phú Ông không thể ngăn cản Khoai - hắn chính là người thiết kế chúng.
 
-Ba ngày lang thang trong rừng nguyên sinh đầy nguy hiểm. Khoai đã đối mặt với những robot tuần tra tự động, bẫy laser, và hệ thống phòng thủ cổ xưa vẫn còn hoạt động. Nhưng điều tồi tệ nhất là sự tuyệt vọng.
+Ba ngày lang thang trong rừng nguyên sinh đầy nguy hiểm. Khoai đã đối mặt với những robot tuần tra tự động, bẫy laser, và hệ thống phòng thủ cổ xưa vẫn còn hoạt động.
+
+![Forest Perils](images/9.png)
+
+Nhưng điều tồi tệ nhất là sự tuyệt vọng.
 
 "Không có gì ở đây!" Khoai gầm lên giữa không gian rộng lớn. "Phú Ông đã lừa tôi!"
 
 Anh ngã xuống đất, kiệt sức và thất vọng. Mọi thứ đều vô vọng.
+
+![Despair](images/10.png)
 
 "Tiếng gầm của kẻ tuyệt vọng... một giai điệu quen thuộc."
 
 Tiếng nói vang lên từ mọi hướng, như thể tự không gian vật chất. Khoai bật dậy, rút khẩu năng lượng phía sau lưng.
 
 " ai đó?"
+
+![The Buddha Appears](images/11.png)
 
 Một hình ảnh lập thể hiện ra trước mặt anh - một thực thể trông giống như một AI cổ đại, hình dạng như một Phật bồ tát nhưng được tạo từ các đường năng lượng xanh dương.
 
@@ -66,6 +87,8 @@ Một hình ảnh lập thể hiện ra trước mặt anh - một thực thể 
 Bụt đưa tay phải lên, và từ lòng đất, 100 module nanotech màu xanh lá nhợt nhô lên như các đốt tre. Chúng phát sáng nhịp nhàng, như thể đang đợi câu lệnh.
 
 "Công nghệ của những vị thần đã đến từ trên trời," Bụt giải thích. "Phá vỡ, nhưng có thể tái cấu trúc. Mỗi module là một 'đốt' - có thể kết hợp để tạo ra bất cứ thứ gì cậu tưởng tượng."
+
+![The Gift of Power](images/12.png)
 
 "Không thể tin được..." Khoai tiến lại gần, run rẩy chạm vào module đầu tiên.
 
@@ -80,6 +103,8 @@ Bụt dạy cho Khoai hai câu lệnh - không phải lời chú, mà là mã đ
 
 Khoai đứng một mình giữa Rừng Cấm, nhưng giờ đây, anh không còn đơn độc.
 
+![First Transformation](images/13.png)
+
 ---
 
 ## Chương 3: Trận Chiến tại Tháp Phú Ông
@@ -92,11 +117,15 @@ Tại tháp Phú Ông Industries, bài hát đám cưới đang vang lên. Phú 
 
 BÙM!
 
+![Return to Tower](images/14.png)
+
 Cửa kính chính của phòng tiệc vỡ tan, và một thân hình từ trên trời đáp xuống. Khoai, mặc bộ giáp chiến đấu màu xanh lá từ các module nanotech đã kết hợp lại.
 
 "Khoai!" Cô Út reo lên.
 
 "Cậu này!" Kim Tử Long tức giận. "Làm sao cậu sống sót quay lại đây?"
+
+![Confrontation](images/15.png)
 
 Phú Ông bấm nút khẩn cấp: "Đội an ninh! Loại bỏ cậu ta!"
 
@@ -109,6 +138,8 @@ Module nanotech bắt đầu cấu trúc lại. Từ giáp, một cây trượng
 "Lệnh của Phú Ông không còn giá trị với tôi nữa!" Khoai quát.
 
 Phía dưới cửa, 10 binh lính xông lên với vũ khí năng lượng.
+
+![First Battle](images/16.png)
 
 "KHẮC XUẤT!"
 
@@ -123,6 +154,8 @@ Phú Ông nhận ra nguy hiểm, lén lút đi về phía cầu thoát hiểm.
 "Không đi đâu mới là!"
 
 Khoai vung tay, và 30 module bay về phía Phú Ông, tạo thành một lồng nanotech xung quanh ông ta.
+
+![The Cage](images/17.png)
 
 "Nhưng... nhưng làm sao?" Cô Út lao tới phía Khoai. "Cậu thật sự sống sót!"
 
@@ -143,6 +176,8 @@ Một bức tường nanotech cao 5 mét hình thành, ngăn cách đám đông.
 ---
 
 ## Chương 4: Sự Chuyển Hình và Một Người Hùng Mới
+
+![Escape Attempt](images/18.png)
 
 Phú Ông, bị giam trong lồng nanotech, gầm lên: "Cô sẽ không thoát khỏi đây, Khoai! Tôi có lực lượng trên toàn thành phố!"
 
@@ -168,6 +203,8 @@ Tên gọi vang lên thật tự nhiên - The Bamboo Sentinel.
 
 ## Chương 5: Lời Hứa Mới
 
+![The Kiss](images/19.png)
+
 Tại đỉnh một tòa nhà không xa, Khoai và Cô Út ngồi cùng nhau, nhìn thành phố Neo Saigon về đêm.
 
 "Bố tôi sẽ ra tù chứ?" Cô Út hỏi.
@@ -188,6 +225,8 @@ Anh đặt tay lên ngực, và module nanotech bắt đầu phát sáng nhẹ.
 
 "Hộ Vệ Tre và CEO Út," Cô Út cười. "Nghe cũng hay đấy."
 
+![Heros Promise](images/20.png)
+
 Ngay lúc đó, từ tầng thượng của công ty cạnh cạnh, một ánh sáng xanh phát ra xa xa. Một tên cướp đang cố gắng phá vỡ hệ thống an ninh.
 
 "Nghỉ một chút nhé?" Khoai hỏi.
@@ -202,9 +241,13 @@ Bộ giáp nanotech hình thành xung quanh anh. Cây trượng tre xuất hiệ
 
 Neo Saigon đã có người bảo vệ của mình.
 
+![First Patrol](images/21.png)
+
 ---
 
 ## POST-CREDIT SCENE
+
+![The Satellite Reveal Post-Credit Scene](images/22.png)
 
 Tại một vệ tinh trên quỹ đạo Trái Đất, một màn hình hiển thị hình ảnh Khoai trong bộ giáp Bamboo Sentinel.
 
