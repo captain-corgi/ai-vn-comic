@@ -1,258 +1,377 @@
-# The Bamboo Sentinel: Kỷ Nguyên Trăm Đốt
+# 🇻🇳 VŨ TRỤ TRUYỆN TRANH VIỆT NAM
 
-**Thể loại:** Siêu anh hùng / Khoa học viễn tưởng / Hành động
-**Dựa trên:** Truyện cổ tích Việt Nam "Cây tre trăm đốt"
+## Vietnamese Comic Universe - Nơi Truyền Thuyết Trở Thành Hiện Thực
 
----
-
-![Character Sheet - Khoai](images/1.png)
-![Character Sheet - Bamboo Armor Full Body](images/2.png)
-![Character Sheet - Phú Ông](images/3.png)
-![Character Sheet - Cô Út](images/4.png)
-
-## Chương 1: Lời Hứa và Sự Phản Bội
-
-![The Promise - Tháp Phú Ông](images/5.png)
-
-Bầu trời trên thành phố Neo Saigon nhuốm màu neon xanh tím, những tòa nhà chọc trời vươn cao như những khổng lồ kim loại. Tại tầng cao nhất của tòa tháp Phú Ông Industries, Khoai - kỹ sư trẻ tuổi nhưng tài năng vượt trội - đang hoàn thành công trình cuối cùng cho trùm công nghệ Phú Ông.
-
-"Khoai, cậu đã làm tốt hơn cả mong đợi," Phú Ông vỗ vai hắn, nụ cười nham hiểm ẩn sau bộ ria mép được cắt gọn gàng. "Tòa tháp này là minh chứng cho tài năng của cậu. Và như đã hứa, Cô Út sẽ thuộc về cậu."
-
-Khoai mỉm cười, ánh mắt nhìn về phía cô con gái của Phú Ông đang đứng gần đó. Cô Út, nhà khoa học xinh đẹp với mái tóc đen óng ả, ánh mắt thông minh quan sát mọi thứ. Có điều gì đó chưa ổn trong mắt cô.
-
-"Tất cả các hệ thống mạng lưới, an ninh, năng lượng... đã được tích hợp hoàn chỉnh," Khoai báo cáo. "Lõi năng lượng Vibranium mới có thể cung cấp đủ điện cho toàn khu vực trong vòng một thế kỷ."
-
-"Ổn lắm," Phú Ông gật đầu, rồi đột nhiên thay đổi giọng điệu. "Trước khi chúng ta tổ chức đám cưới, tôi có một yêu cầu nhỏ."
-
-"Xin mời," Khoai cung kính nói.
-
-"Tôi muốn sính lễ. Không phải tiền bạc hay vàng bạc. Tôi muốn 'Lõi Năng Lượng Trăm Đốt'."
-
-![The Ultimatum](images/6.png)
-
-Không khí trong phòng đột ngột im bặt. Khoai trợn tròn mắt.
-
-"Thưa ngài, đó chỉ là truyền thuyết... Không ai đã từng tìm thấy nó."
-
-"Chính xác," Phú Ông cười lớn. "Đó là thử thách cuối cùng. Nếu cậu muốn được cưới con gái tôi và trở thành người thừa kế, hãy mang thứ đó đến cho tôi."
-
-Cô Út bước tới, giọng đầy lo lắng: "Cha, người không thể... Rừng Cấm là nơi không ai sống sót trở về!"
-
-![Cô Úts Concern](images/7.png)
-
-"Con im lặng!" Phú Ông quát tháo. "Đây là việc của đàn ông. Khoai sẽ phải chứng tỏ mình xứng đáng."
-
-Khoai hiểu ra. Đây không phải là thử thách. Đây là một lời án tử. Phú Ông đã tìm thấy một hôn sự khác có lợi hơn - với trùm vũ khí Kim Tử Long, kẻ đang chờ đợi bên ngoài phòng họp.
-
-"Tôi sẽ đi," Khoai nói, giọng trầm đầy quyết tâm. "Và tôi sẽ quay lại."
-
-"Cậu sẽ không bao giờ quay trở lại," Phú Ông thì thầm khi Khoai rời khỏi phòng.
+Chào mừng đến với **Vũ Trụ Truyện Tranh Việt Nam** - một vũ trụ kết nối tất cả các truyền thuyết, cổ tích Việt Nam thành một câu chuyện siêu anh hùng đa chiều, đa vũ trụ, xuyên thời gian.
 
 ---
 
-## Chương 2: Rừng Cấm và Sự Thức Tĩnh
+## 📚 TỔNG QUAN
 
-![Journey to Forbidden Zone](images/8.png)
+Vũ trụ này bao gồm **4 tuyến truyện chính** và **1 tuyến phản diện**, tất cả kết nối với nhau qua không gian, thời gian và thực tại:
 
-Rừng Cấm là một khu vực bị cô lập bởi bức tường năng lượng cao, nơi chứa đựng tàn tích của một nền văn minh ngoài hành tinh đổ bộ cách đây hàng ngàn năm. Hàng rào an ninh của tập đoàn Phú Ông không thể ngăn cản Khoai - hắn chính là người thiết kế chúng.
+- **🌳 Tuyến Hộ Vệ Tre (Bamboo Guardians)** - Bảo vệ không gian
+- **⚔️ Tuyến Khổng Lồ Sắt (Iron Giants)** - Bảo vệ vật chất  
+- **⏰ Tuyến Giữ Thời Gian (Time Keepers)** - Bảo vệ thời gian
+- **🗺️ Tuyến Thần S Việt (Vietnamese Deities)** - Bảo vệ di sản văn hóa
+- **🌑 Tuyến Phản Diện (Villains)** - Nguồn gốc của bóng tối
 
-Ba ngày lang thang trong rừng nguyên sinh đầy nguy hiểm. Khoai đã đối mặt với những robot tuần tra tự động, bẫy laser, và hệ thống phòng thủ cổ xưa vẫn còn hoạt động.
-
-![Forest Perils](images/9.png)
-
-Nhưng điều tồi tệ nhất là sự tuyệt vọng.
-
-"Không có gì ở đây!" Khoai gầm lên giữa không gian rộng lớn. "Phú Ông đã lừa tôi!"
-
-Anh ngã xuống đất, kiệt sức và thất vọng. Mọi thứ đều vô vọng.
-
-![Despair](images/10.png)
-
-"Tiếng gầm của kẻ tuyệt vọng... một giai điệu quen thuộc."
-
-Tiếng nói vang lên từ mọi hướng, như thể tự không gian vật chất. Khoai bật dậy, rút khẩu năng lượng phía sau lưng.
-
-" ai đó?"
-
-![The Buddha Appears](images/11.png)
-
-Một hình ảnh lập thể hiện ra trước mặt anh - một thực thể trông giống như một AI cổ đại, hình dạng như một Phật bồ tát nhưng được tạo từ các đường năng lượng xanh dương.
-
-"Tôi được gọi là Bụt," thực thể nói. "Người canh giữ kiến thức đã mất. Tôi đã theo dõi cậu, Khoai. Lòng dũng cảm và hy sinh của cậu... xứng đáng nhận được một món quà."
-
-"Bụt? Nhưng... đó chỉ là truyền thuyết," Khoai ngạc nhiên.
-
-"Mọi truyền thuyết đều có nguồn gốc," Bụt mỉm cười. "Phú Ông muốn cậu tìm kiếm 'Lõi Năng Lượng Trăm Đốt' - một cổ vật không tồn tại. Nhưng ông ta không biết rằng sức mạnh thực sự nằm ở chính hành trình của cậu."
-
-Bụt đưa tay phải lên, và từ lòng đất, 100 module nanotech màu xanh lá nhợt nhô lên như các đốt tre. Chúng phát sáng nhịp nhàng, như thể đang đợi câu lệnh.
-
-"Công nghệ của những vị thần đã đến từ trên trời," Bụt giải thích. "Phá vỡ, nhưng có thể tái cấu trúc. Mỗi module là một 'đốt' - có thể kết hợp để tạo ra bất cứ thứ gì cậu tưởng tượng."
-
-![The Gift of Power](images/12.png)
-
-"Không thể tin được..." Khoai tiến lại gần, run rẩy chạm vào module đầu tiên.
-
-"Sức mạnh này cần một trái tim thuần khiết," Bụt nói. "Một trái tim không bị tham nhũng bởi quyền lực. Cậu có nó, Khoai. Cậu sẽ sử dụng nó để bảo vệ, không phải để thống trị."
-
-Bụt dạy cho Khoai hai câu lệnh - không phải lời chú, mà là mã điều khiển nanotech:
-
-*"Khắc nhập"* - Để kết hợp các module thành vũ khí hoặc giáp.
-*"Khắc xuất"* - Để tách rời chúng.
-
-"Cậu sẽ không thấy tôi nữa," Bụt nói dần khi hình ảnh mờ đi. "Hãy sử dụng quà tặng này một cách khôn ngoan."
-
-Khoai đứng một mình giữa Rừng Cấm, nhưng giờ đây, anh không còn đơn độc.
-
-![First Transformation](images/13.png)
+Tất cả hội tụ tại **Timeline Omega** và **The Eternal Council** - nơi mọi anh hùng và truyền thuyết Việt Nam tồn tại cùng nhau.
 
 ---
 
-## Chương 3: Trận Chiến tại Tháp Phú Ông
+## 🎯 THỨ TỰ ĐỌC ĐỀ XUẤT
 
-Tại tháp Phú Ông Industries, bài hát đám cưới đang vang lên. Phú Ông đang chuẩn bị trao tay con gái cho Kim Tử Long - trùm vũ khí tàn bạo có quan hệ với các tổ chức tội phạm xuyên quốc gia.
+### **PHASE 1: ORIGINS (Nguồn Gốc) - Đọc theo thứ tự bất kỳ**
 
-"Tôi chấp nhận," Kim Tử Long nắm tay Cô Út, ánh mắt đầy tham lam.
+Các truyện origin có thể đọc độc lập, giới thiệu từng anh hùng:
 
-"Chúc phúc cho hai con," Phú Ông nói, nhưng đột nhiên...
+#### 🌳 Hộ Vệ Tre Origins
+1. **[`01-the-bamboo-sentinel.md`](01-the-bamboo-sentinel.md)** - Khoai Prime (Universe Prime)
+2. **[`02-the-bamboo-sentinel-beta.md`](02-the-bamboo-sentinel-beta.md)** - Khoai Beta (Universe Beta)
+3. **[`03-the-bamboo-monk.md`](03-the-bamboo-monk.md)** - Bụt-Monk (Universe Theta)
+4. **[`04-the-bamboo-mechanic.md`](04-the-bamboo-mechanic.md)** - Cô Út-Mechanic (Universe Epsilon)
+5. **[`05-the-bamboo-scavenger.md`](05-the-bamboo-scavenger.md)** - Khoai-Scavenger (Universe Delta)
+6. **[`06-the-bamboo-overlord.md`](06-the-bamboo-overlord.md)** - Phú Ông-Overlord (Universe Gamma)
 
-BÙM!
+#### ⚔️ Khổng Lồ Sắt Origins
+7. **[`07-the-iron-sentinel.md`](07-the-iron-sentinel.md)** - Gióng Prime (Universe Prime)
+8. **[`08-the-silent-warrior.md`](08-the-silent-warrior.md)** - Gióng-Silent (Universe Beta)
+9. **[`09-the-mechanical-titan.md`](09-the-mechanical-titan.md)** - Gióng-Mechanical (Universe Gamma)
+10. **[`10-the-corrupted-giant.md`](10-the-corrupted-giant.md)** - Gióng-Corrupted (Universe Delta)
 
-![Return to Tower](images/14.png)
+#### ⏰ Time Keepers Origins
+11. **[`11-the-time-keeper-tam.md`](11-the-time-keeper-tam.md)** - Tấm origin story
 
-Cửa kính chính của phòng tiệc vỡ tan, và một thân hình từ trên trời đáp xuống. Khoai, mặc bộ giáp chiến đấu màu xanh lá từ các module nanotech đã kết hợp lại.
+#### 🗺️ Thần S Việt Origins
+12. **[`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md)** - Sơn Tinh, Vua Núi Thần
+13. **[`22-thuy-tinh-water-god.md`](22-thuy-tinh-water-god.md)** - Thủy Tinh, Vua Biển Thần  
+14. **[`23-the-eternal-rivalry.md`](23-the-eternal-rivalry.md)** - Đối đầu vĩnh cửu
+15. **[`24-thanh-dong-divine-fisher.md`](24-thanh-dong-divine-fisher.md)** - Thanh Đông, Người Chài Cá Thần
+16. **[`25-thach-sanh-monster-slayer.md`](25-thach-sanh-monster-slayer.md)** - Thạch Sanh, Săn Quỷ
 
-"Khoai!" Cô Út reo lên.
-
-"Cậu này!" Kim Tử Long tức giận. "Làm sao cậu sống sót quay lại đây?"
-
-![Confrontation](images/15.png)
-
-Phú Ông bấm nút khẩn cấp: "Đội an ninh! Loại bỏ cậu ta!"
-
-Lính đánh thuê vũ trang đầy đủ lao vào. Khoai đặt tay phải lên ngực bộ giáp.
-
-"KHẮC NHẬP!"
-
-Module nanotech bắt đầu cấu trúc lại. Từ giáp, một cây trượng tre dài hơn hai mét hình thành, đầu trượng phát sáng năng lượng xanh lá.
-
-"Lệnh của Phú Ông không còn giá trị với tôi nữa!" Khoai quát.
-
-Phía dưới cửa, 10 binh lính xông lên với vũ khí năng lượng.
-
-![First Battle](images/16.png)
-
-"KHẮC XUẤT!"
-
-Trượng tre tách rời thành 10 module nhỏ, mỗi module lao vào và vô hiệu hóa vũ khí của lính đánh thuê. Chúng lấy đi nguồn năng lượng, khiến vũ khí trở nên vô dụng.
-
-"Không thể!" Kim Tử Long kinh ngạc. "Công nghệ đó... không phải của chúng ta!"
-
-"Đúng vậy," Khoai mỉm cười. "Nó thuộc về những người có trái tim trong sạch."
-
-Phú Ông nhận ra nguy hiểm, lén lút đi về phía cầu thoát hiểm.
-
-"Không đi đâu mới là!"
-
-Khoai vung tay, và 30 module bay về phía Phú Ông, tạo thành một lồng nanotech xung quanh ông ta.
-
-![The Cage](images/17.png)
-
-"Nhưng... nhưng làm sao?" Cô Út lao tới phía Khoai. "Cậu thật sự sống sót!"
-
-"Bụt đã giúp tôi," Khoai nói, giọng nhẹ nhàng khi anh nhìn cô. "Anh đã tìm thấy sức mạnh thực sự."
-
-"Cha tôi... ông ta sẽ..."
-
-"Sẽ trả giá cho những gì ông ta đã làm," Khoai trấn an. "Nhưng hôm nay, chúng ta cần kết thúc cuộc chiến này."
-
-Kim Tử Long ra hiệu cho lính còn lại tấn công. Khoai đặt tay lên đất.
-
-"KHẮC NHẬP!"
-
-Một bức tường nanotech cao 5 mét hình thành, ngăn cách đám đông. Đồng thời, các module còn lại tạo thành các còng tay cho Kim Tử Long và đội an ninh.
-
-"Cuộc chơi kết thúc," Khoai tuyên bố.
+#### 🏛️ Việt Hùng Origins
+17. **[`26-ly-thong-the-betrayer.md`](26-ly-thong-the-betrayer.md)** - Lý Thông, Kẻ Phản Bội
+18. **[`27-thanh-don-tactical-genius.md`](27-thanh-don-tactical-genius.md)** - Thánh Đôn, Thiên Tài Chiến Thuật
+19. **[`28-chu-dong-tu-buffalo-boy.md`](28-chu-dong-tu-buffalo-boy.md)** - Chử Đồng Tử, Cậu Bé Trâu
+20. **[`29-tien-dung-celestial-princess.md`](29-tien-dung-celestial-princess.md)** - Tiên Dung, Công Chúa Thiên Thần
+21. **[`30-tu-bat-tu-four-immortals.md`](30-tu-bat-tu-four-immortals.md)** - Tứ Bất Tử, Bốn Vị Bất Tử
+22. **[`31-an-duong-vuong-king-of-citadel.md`](31-an-duong-vuong-king-of-citadel.md)** - An Dương Vương, Vua Thành Truyền
+23. **[`32-kim-quy-golden-turtle.md`](32-kim-quy-golden-turtle.md)** - Kim Quy, Rùa Vàng Thần
+24. **[`33-ho-guom-sacred-sword.md`](33-ho-guom-sacred-sword.md)** - Hồ Gươm, Gươm Thánh
+25. **[`34-le-loi-peoples-king.md`](34-le-loi-peoples-king.md)** - Lê Lợi, Vua Nhân Dân
+26. **[`35-au-co-mother-of-nation.md`](35-au-co-mother-of-nation.md)** - Âu Cơ, Mẹ Dân Tộc
+27. **[`36-lac-long-quan-dragon-king.md`](36-lac-long-quan-dragon-king.md)** - Lạc Long Quân, Vua Rồng
+28. **[`37-birth-of-viet-nation-origin-saga.md`](37-birth-of-viet-nation-origin-saga.md)** - Khởi Nguyên Dân Tộc Việt
 
 ---
 
-## Chương 4: Sự Chuyển Hình và Một Người Hùng Mới
+### **PHASE 2: CONVERGENCE (Hội Tụ) - Đọc theo thứ tự**
 
-![Escape Attempt](images/18.png)
+Các truyện này kết nối các anh hùng lại với nhau:
 
-Phú Ông, bị giam trong lồng nanotech, gầm lên: "Cô sẽ không thoát khỏi đây, Khoai! Tôi có lực lượng trên toàn thành phố!"
-
-"Và bây giờ cậu sẽ có một người hùng," một giọng nói quen thuộc vang lên.
-
-Cô Út xuất hiện với bảng điều khiển trong tay - cô đã hack vào hệ thống của tập đoàn.
-
-"Cha tôi đã phạm tội phản bội, lừa đảo, và âm mưu giết người. Mọi bằng chứng đều được gửi đến cơ quan chức năng."
-
-Cô Út nhìn Khoai: "Cậu đã làm điều nên làm. Cậu là người hùng của chúng ta."
-
-Những tiếng còi cảnh xa vang lại từ xa. Khách mời trong đám cưới bắt đầu hoảng loạn.
-
-"Đi nào!" Cô Út kéo tay Khoai.
-
-"Họ có thể tìm thấy chúng ta," Khoai lo lắng.
-
-"Không nếu chúng ta có người này," Cô Út cười, chỉ vào Khoai. "Hộ Vệ Tre."
-
-Tên gọi vang lên thật tự nhiên - The Bamboo Sentinel.
+29. **[`12-the-bamboo-council.md`](12-the-bamboo-council.md)** - Hội Đồng Hộ Vệ Vô Hạn hình thành
+30. **[`13-the-iron-giant-council.md`](13-the-iron-giant-council.md)** - Hội Đồng Khổng Lồ Sắt hình thành + liên kết với Hộ Vệ Tre
+31. **[`14-the-broken-timeline-cam.md`](14-the-broken-timeline-cam.md)** - Cám và sự cứu chuộc
+32. **[`15-the-time-war.md`](15-the-time-war.md)** - Cuộc chiến xuyên thời đại
 
 ---
 
-## Chương 5: Lời Hứa Mới
+### **PHASE 3: CRISIS (Khủng Hoảng) - Đọc theo thứ tự**
 
-![The Kiss](images/19.png)
+Mối đe dọa lớn nhất xuất hiện:
 
-Tại đỉnh một tòa nhà không xa, Khoai và Cô Út ngồi cùng nhau, nhìn thành phố Neo Saigon về đêm.
-
-"Bố tôi sẽ ra tù chứ?" Cô Út hỏi.
-
-"Vài năm," Khoai nói. "Nhưng quan trọng là công ty của ông ta sẽ được tái cấu trúc. Dưới sự lãnh đạo mới của một vị CEO có lương tri..."
-
-"Dẫn chứng là tôi ý nhỉ?" Cô Út mỉm cười.
-
-"Dẫn chứng là một nửa," Khoai gật đầu. "Nửa còn lại thuộc về người có ý định làm điều đúng đắn với công nghệ này."
-
-Anh đặt tay lên ngực, và module nanotech bắt đầu phát sáng nhẹ.
-
-"Bụt đã nói - sức mạnh này cho người có trái tim trong sạch."
-
-"Và anh có trái tim đó," Cô Út nói, đặt tay lên tay anh.
-
-"Chúng ta sẽ cùng nhau làm cho thành phố này tốt đẹp hơn," Khoai hứa. "Không phải bằng quyền lực, mà bằng sự bảo vệ."
-
-"Hộ Vệ Tre và CEO Út," Cô Út cười. "Nghe cũng hay đấy."
-
-![Heros Promise](images/20.png)
-
-Ngay lúc đó, từ tầng thượng của công ty cạnh cạnh, một ánh sáng xanh phát ra xa xa. Một tên cướp đang cố gắng phá vỡ hệ thống an ninh.
-
-"Nghỉ một chút nhé?" Khoai hỏi.
-
-"Luôn luôn đi," Cô Út mỉm cười.
-
-Khoai đứng dậy, nhìn về phía ánh sáng. Anh đặt tay lên ngực.
-
-"KHẮC NHẬP!"
-
-Bộ giáp nanotech hình thành xung quanh anh. Cây trượng tre xuất hiện trong tay anh. Anh lao vào bóng đêm, một bóng người xanh lá nhanh hơn và mạnh mẽ hơn bất cứ ai từng thấy.
-
-Neo Saigon đã có người bảo vệ của mình.
-
-![First Patrol](images/21.png)
+33. **[`16-the-convergence.md`](16-the-convergence.md)** - Tất cả timeline hội tụ, tạo Timeline Omega
+34. **[`17-the-eternal-council.md`](17-the-eternal-council.md)** - Hội Đồng Vĩnh Cửu được thành lập, kết nối TẤT CẢ
 
 ---
 
-## POST-CREDIT SCENE
+### **PHASE 4: VILLAINS (Phản Diện) - Có thể đọc bất kỳ lúc nào**
 
-![The Satellite Reveal Post-Credit Scene](images/22.png)
+Khám phá nguồn gốc và động cơ của các phản diện:
 
-Tại một vệ tinh trên quỹ đạo Trái Đất, một màn hình hiển thị hình ảnh Khoai trong bộ giáp Bamboo Sentinel.
-
-"Kiểu mẫu Bamboo Trăm Đốt đã được kích hoạt," một giọng nói máy móc vang lên. "Thông báo cho Hội Thượng Cổ. Kỷ nguyên mới đã bắt đầu."
+35. **[`18-the-voids-beginning.md`](18-the-voids-beginning.md)** - Nguồn gốc của The Void (Không → The Void)
+36. **[`19-the-broken-king.md`](19-the-broken-king.md)** - Nguồn gốc của Phú Ông-Temporal
+37. **[`20-the-dark-alliance.md`](20-the-dark-alliance.md)** - Liên minh phản diện và sự kết nối
 
 ---
 
-**The End...** ...for now.
+## 🗺️ BẢN ĐỒ VŨ TRỤ
+
+### **SƠ ĐỒ LIÊN KẾT TUYẾN TRUYỆN**
+
+```mermaid
+graph TB
+    %% Timeline Omega - Final Destination
+    OMEGA[⭐ Timeline Omega<br/>All Heroes United]
+    
+    %% Phase 3: Crisis - Leads to Omega
+    EC[17-The Eternal Council<br/>🔮 Hội Đồng Vĩnh Cửu] --> OMEGA
+    CONV[16-The Convergence<br/>🌌 Hội Tụ Timeline] --> EC
+    
+    %% Phase 2: Convergence - Leads to Crisis
+    BC[12-Bamboo Council<br/>🌳 Hội Đồng Hộ Vệ] --> CONV
+    GC[13-Iron Giant Council<br/>⚔️ Hội Đồng Khổng Lồ] --> CONV
+    BTC[14-Broken Timeline Cam<br/>⏰ Cám Cứu Chuộc] --> CONV
+    TW[15-Time War<br/>⚔️ Chiến Thời Gian] --> CONV
+    ER[23-Eternal Rivalry<br/>🗺️ Sơn Tinh vs Thủy Tinh] --> CONV
+    VG[25-Thạch Sanh<br/>🏹 Săn Quỷ] --> CONV
+    VH[37-Birth of Việt Nation<br/>🏛️ Khởi Nguyên Dân Tộc] --> CONV
+    
+    %% Villains - Influence Convergence
+    DA[20-The Dark Alliance<br/>🌑 Liên Minh Phản Diện] --> CONV
+    V1[18-The Void's Beginning<br/>⚫ Nguồn Gốc The Void] --> DA
+    V2[19-The Broken King<br/>👑 Phú Ông-Temporal] --> DA
+    
+    %% Phase 1: Origins - Bamboo Guardians
+    B1[01-The Bamboo Sentinel<br/>🌴 Khoai Prime] --> BC
+    B2[02-Bamboo Sentinel Beta<br/>🌴 Khoai Beta] --> BC
+    B3[03-Bamboo Monk<br/>🌴 Bụt-Monk] --> BC
+    B4[04-Bamboo Mechanic<br/>🌴 Cô Út-Mechanic] --> BC
+    B5[05-Bamboo Scavenger<br/>🌴 Khoai-Scavenger] --> BC
+    B6[06-Bamboo Overlord<br/>🌴 Phú Ông-Overlord] --> BC
+    
+    %% Phase 1: Origins - Iron Giants
+    G1[07-Iron Sentinel<br/>⚡ Gióng Prime] --> GC
+    G2[08-Silent Warrior<br/>⚡ Gióng-Silent] --> GC
+    G3[09-Mechanical Titan<br/>⚡ Gióng-Mechanical] --> GC
+    G4[10-Corrupted Giant<br/>⚡ Gióng-Corrupted] --> GC
+    
+    %% Phase 1: Origins - Time Keepers
+    T1[11-Time Keeper Tam<br/>⏰ Tấm Origin] --> BTC
+    T1 --> TW
+    
+    %% Phase 1: Origins - Vietnamese Deities
+    D1[21-Sơn Tinh<br/>⛰️ Vua Núi Thần] --> ER
+    D2[22-Thủy Tinh<br/>🌊 Vua Biển Thần] --> ER
+    V3[24-Thanh Đông<br/>🎣 Người Chài Cá] --> VG
+    
+    %% Phase 1: Origins - Vietnamese Heroes
+    H1[26-Lý Thông<br/>🗡️ Kẻ Phản Bội] --> VH
+    H2[27-Thánh Đôn<br/>🧠 Thiên Tài Chiến Thuật] --> VH
+    H3[28-Chử Đồng Tử<br/>🐃 Cậu Bé Trâu] --> VH
+    H4[29-Tiên Dung<br/>👸 Công Chúa Thiên Thần] --> VH
+    H5[30-Tứ Bất Tử<br/>✨ Bốn Vị Bất Tử] --> VH
+    H6[31-An Dương Vương<br/>🏰 Vua Thành Truyền] --> VH
+    H7[32-Kim Quy<br/>🐢 Rùa Vàng Thần] --> VH
+    H8[33-Hồ Gươm<br/>⚔️ Gươm Thánh] --> VH
+    H9[34-Lê Lợi<br/>👑 Vua Nhân Dân] --> VH
+    H10[35-Âu Cơ<br/>👩‍👧‍👦 Mẹ Dân Tộc] --> VH
+    H11[36-Lạc Long Quân<br/>🐉 Vua Rồng] --> VH
+    
+    %% Styling
+    classDef bamboo fill:#2E7D32,stroke:#1B5E20,color:#fff,font-weight:bold
+    classDef iron fill:#795548,stroke:#5D4037,color:#fff,font-weight:bold
+    classDef time fill:#1976D2,stroke:#0D47A1,color:#fff,font-weight:bold
+    classDef deity fill:#F57C00,stroke:#E65100,color:#fff,font-weight:bold
+    classDef viet fill:#D32F2F,stroke:#B71C1C,color:#fff,font-weight:bold
+    classDef villain fill:#424242,stroke:#212121,color:#fff,font-weight:bold
+    classDef council fill:#9C27B0,stroke:#6A1B9A,color:#fff,font-weight:bold
+    classDef omega fill:#FFD700,stroke:#FFA000,color:#000,font-weight:bold
+    
+    class B1,B2,B3,B4,B5,B6,BC bamboo
+    class G1,G2,G3,G4,GC iron
+    class T1,BTC,TW time
+    class D1,D2,ER,V3,VG deity
+    class H1,H2,H3,H4,H5,H6,H7,H8,H9,H10,H11,VH viet
+    class V1,V2,DA villain
+    class CONV,EC council
+    class OMEGA omega
+```
+
+### **Timeline Omega (Trung Tâm)**
+Nơi tất cả timeline hội tụ sau The Convergence. Đây là timeline chính của vũ trụ.
+
+### **Các Timeline Khác**
+- **Universe Prime (Alpha)** - Timeline gốc của Khoai Prime và Gióng Prime
+- **Universe Beta** - Timeline của các chiến binh im lặng
+- **Universe Gamma** - Timeline steampunk
+- **Universe Delta** - Timeline tối tăm
+- **Universe Epsilon** - Timeline cơ khí
+- **Universe Theta** - Timeline tâm linh
+- **Universe Omega-0001** - Timeline của Time Keepers
+
+### **Timeline Zero**
+Điểm khởi đầu của tất cả timeline. Nơi Timeweavers tạo ra hệ thống thời gian.
+
+---
+
+## 🦸 CÁC HỘI ĐỒNG
+
+### **1. Hội Đồng Hộ Vệ Vô Hạn (Infinite Bamboo Council)**
+- **Lãnh đạo:** Khoai Prime
+- **Sức mạnh:** Nanotech, linh hoạt, bảo vệ không gian
+- **Biểu tượng:** Tre (Bamboo)
+- **Thành viên:** Các Bamboo Sentinels từ nhiều vũ trụ
+
+### **2. Hội Đồng Khổng Lồ Sắt (Iron Giant Council)**
+- **Lãnh đạo:** Gióng Prime
+- **Sức mạnh:** Titan cơ khí, vững chắc, bảo vệ vật chất
+- **Biểu tượng:** Sắt (Iron)
+- **Thành viên:** Các Gióng từ nhiều vũ trụ
+
+### **3. Temporal Order (Time Keepers)**
+- **Lãnh đạo:** Khoai-Temporal, Tấm, Cám
+- **Sức mạnh:** Du hành thời gian, bảo vệ timeline
+- **Biểu tượng:** Đồng Hồ (Clock)
+- **Thành viên:** Các Time Keepers từ nhiều timeline
+
+### **4. The Eternal Council (Hội Đồng Vĩnh Cửu)**
+- **Mục đích:** Kết hợp tất cả 3 hội đồng trên
+- **Thành viên:** Đại diện từ mọi hội đồng + các thần linh
+- **Sứ mệnh:** Bảo vệ Timeline Omega và tất cả thực tại
+
+---
+
+## 😈 PHẢN DIỆN CHÍNH
+
+### **The Void (Không)**
+- **Nguồn gốc:** Nhà khoa học Timeweavers trở thành quái vật
+- **Động cơ:** Cố gắng cứu vũ trụ bằng cách hy sinh timeline
+- **Kết cục:** Tìm thấy sự cứu chuộc, chết trong hòa bình
+
+### **Phú Ông-Temporal**
+- **Nguồn gốc:** Người cha yêu con, ám ảnh với timeline hoàn hảo
+- **Động cơ:** Tạo ra thế giới nơi gia đình anh hạnh phúc
+- **Kết cục:** Một số phiên bản được cứu chuộc, một số không
+
+### **The Architect**
+- **Nguồn gốc:** Phần tối tăm của The Void
+- **Động cơ:** Tạo ra hỗn loạn và kiểm soát tuyệt đối
+- **Kết cục:** Bị đánh bại bởi liên minh anh hùng và phản diện đã thay đổi
+
+### **Dark Alliance**
+- **Thành viên:** Các phản diện từ mọi timeline
+- **Mục đích:** Lật đổ các hội đồng
+- **Kết cục:** Phân rẽ, một số tìm sự cứu chuộc
+
+---
+
+## 🎨 THEMES CHÍNH
+
+1. **Đoàn Kết:** Sức mạnh đến từ việc cùng nhau, không phải một mình
+2. **Cứu Chuộc:** Mọi người đều xứng đáng có cơ hội thứ hai
+3. **Gia Đình:** Tình yêu gia đình có thể cứu hoặc phá hủy
+4. **Quyền Lực:** Quyền lực tuyệt đối làm hỏng tuyệt đối
+5. **Thời Gian:** Không thể kiểm soát mọi thứ, phải để tự nhiên
+6. **Di Sản:** Truyền thuyết sống mãi qua thế hệ
+
+---
+
+## 🌟 ĐẶC ĐIỂM ĐỘC ĐÁO
+
+### **1. Kết Nối Truyền Thuyết Việt Nam**
+- Thánh Gióng → Iron Titans
+- Cây Tre Trăm Đốt → Bamboo Sentinels
+- Tấm Cám → Time Keepers
+- Và nhiều truyền thuyết khác...
+
+### **2. Đa Vũ Trụ & Du Hành Thời Gian**
+- Mỗi truyền thuyết có nhiều phiên bản trong các vũ trụ khác nhau
+- Du hành qua lịch sử Việt Nam (Hùng Vương, Hai Bà Trưng, Trần, Lê Lợi...)
+- Timeline hội tụ tạo ra Timeline Omega
+
+### **3. Phản Diện Có Chiều Sâu**
+- Không phải ác thuần túy
+- Có nguồn gốc và động cơ rõ ràng
+- Có thể tìm thấy sự cứu chuộc
+
+### **4. Văn Hóa Việt Nam**
+- Tên nhân vật, địa điểm Việt Nam
+- Giá trị văn hóa truyền thống
+- Lịch sử Việt Nam được tôn trọng
+
+---
+
+## 📖 CÁCH ĐỌC TỐT NHẤT
+
+### **Cho Người Mới:**
+1. Đọc một origin story từ mỗi tuyến ([`01-the-bamboo-sentinel.md`](01-the-bamboo-sentinel.md), [`07-the-iron-sentinel.md`](07-the-iron-sentinel.md), [`11-the-time-keeper-tam.md`](11-the-time-keeper-tam.md), [`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md))
+2. Đọc các truyện Convergence theo thứ tự ([`12-`](12-the-bamboo-council.md) đến [`15-`](15-the-time-war.md))
+3. Đọc Crisis arc ([`16-`](16-the-convergence.md) đến [`17-`](17-the-eternal-council.md))
+4. Đọc Villains arc ([`18-`](18-the-voids-beginning.md) đến [`20-`](20-the-dark-alliance.md)) để hiểu sâu hơn
+
+### **Cho Fan Hardcore:**
+1. Đọc TẤT CẢ origins theo thứ tự ([`01-`](01-the-bamboo-sentinel.md) đến [`11-`](11-the-time-keeper-tam.md), [`21-`](21-son-tinh-mountain-god.md) đến [`37-`](37-birth-of-viet-nation-origin-saga.md))
+2. Đọc Convergence ([`12-`](12-the-bamboo-council.md) đến [`15-`](15-the-time-war.md))
+3. Đọc Crisis ([`16-`](16-the-convergence.md) đến [`17-`](17-the-eternal-council.md))
+4. Đọc Villains ([`18-`](18-the-voids-beginning.md) đến [`20-`](20-the-dark-alliance.md))
+5. Đọc lại từ đầu để bắt các chi tiết kết nối
+
+### **Theo Tuyến Nhân Vật:**
+- **Tuyến Khoai:** [`01-the-bamboo-sentinel.md`](01-the-bamboo-sentinel.md) → [`12-the-bamboo-council.md`](12-the-bamboo-council.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+- **Tuyến Gióng:** [`07-the-iron-sentinel.md`](07-the-iron-sentinel.md) → [`13-the-iron-giant-council.md`](13-the-iron-giant-council.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+- **Tuyến Tấm/Cám:** [`11-the-time-keeper-tam.md`](11-the-time-keeper-tam.md) → [`14-the-broken-timeline-cam.md`](14-the-broken-timeline-cam.md) → [`15-the-time-war.md`](15-the-time-war.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+- **Tuyến Thần S Việt:** [`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md) → [`22-thuy-tinh-water-god.md`](22-thuy-tinh-water-god.md) → [`23-the-eternal-rivalry.md`](23-the-eternal-rivalry.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+- **Tuyến Việt Hùng:** [`26-ly-thong-the-betrayer.md`](26-ly-thong-the-betrayer.md) → [`27-thanh-don-tactical-genius.md`](27-thanh-don-tactical-genius.md) → [`28-`](28-chu-dong-tu-buffalo-boy.md) đến [`37-`](37-birth-of-viet-nation-origin-saga.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+
+---
+
+## 🚀 TƯƠNG LAI
+
+Vũ trụ này sẽ tiếp tục mở rộng với:
+- Thêm nhiều truyền thuyết Việt Nam
+- Thêm nhiều timeline và vũ trụ
+- Thêm nhiều anh hùng và phản diện
+- Thêm nhiều arc và saga
+
+Xem `plan-next-stories.md` để biết các truyện sắp tới.
+
+---
+
+## 📊 THỐNG KÊ
+
+- **Tổng số truyện:** 37
+- **Tổng số file prompt:** 37 (đã hoàn chỉnh)
+- **Số tuyến truyện:** 5 (4 anh hùng + 1 phản diện)
+- **Số vũ trụ:** 10+
+- **Số timeline:** Vô hạn
+- **Số nhân vật chính:** 50+
+- **Số hội đồng:** 4
+
+### **📝 File Prompts Hoàn Chỉnh**
+Tất cả 37 truyện đều có file **image generation prompts** tương ứng trong thư mục [`prompts/`](prompts/) với format `[number]-[story-name]-prompts.md`:
+- **Structure:** 10 chapters × 2 prompts + EPILOGUE + POST-CREDIT
+- **Total prompts:** 740+ detailed image generation prompts
+- **Content:** Character designs, backgrounds, art style guidelines
+- **Purpose:** Sẵn sàng cho AI image generation
+- **Location:** [`prompts/`](prompts/) - Xem đầy đủ trong [`prompts/README.md`](prompts/README.md)
+
+### **🎨 Prompts Features**
+- **Detailed descriptions** cho từng scene
+- **Character design references** cho consistency
+- **Background settings** cho world-building
+- **Art style guidelines** cho visual consistency
+- **Vietnamese cultural elements** được tích hợp
+
+---
+
+## 💡 GHI CHÚ
+
+- Tất cả truyện được viết bằng tiếng Việt
+- Có thể đọc độc lập nhưng đọc theo thứ tự sẽ hiểu rõ hơn
+- Mỗi truyện có độ dài tương đương một comic issue
+- Post-credit scenes quan trọng - đừng bỏ qua!
+
+---
+
+## 🎬 QUOTE NỔI BẬT
+
+> "Chúng tôi là Hội Đồng Vĩnh Cửu.  
+> Chúng tôi bảo vệ không gian, thời gian, và thực tại.  
+> Chúng tôi là tre - linh hoạt nhưng không gãy.  
+> Chúng tôi là sắt - cứng rắn nhưng không vỡ.  
+> Chúng tôi là thời gian - luôn chuyển động nhưng không quên.  
+> Chúng tôi là một. Chúng tôi là vĩnh cửu."
+
+---
+
+## 📞 LIÊN HỆ & ĐÓNG GÓP
+
+Vũ trụ này là dự án mở. Mọi ý tưởng về truyền thuyết Việt Nam mới đều được chào đón!
+
+---
+
+**Chúc bạn đọc truyện vui vẻ! 🇻🇳✨**
+
+**Nhớ rằng: Trong Timeline Omega, mọi truyền thuyết đều sống mãi!**
