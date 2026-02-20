@@ -4,6 +4,8 @@
 
 Chào mừng đến với **Vũ Trụ Truyện Tranh Việt Nam** - một vũ trụ kết nối tất cả các truyền thuyết, cổ tích Việt Nam thành một câu chuyện siêu anh hùng đa chiều, đa vũ trụ, xuyên thời gian.
 
+> **📖 Tài Liệu Dành Cho AI/Developers:** Xem [`CLAUDE.md`](CLAUDE.md) để biết chi tiết về cấu trúc kỹ thuật, format file, và hướng dẫn phát triển.
+
 ---
 
 ## 📚 TỔNG QUAN
@@ -366,9 +368,33 @@ Tất cả 37 truyện đều có file **image generation prompts** tương ứn
 
 ---
 
+## 📂 CẤU TRÚC DỰ ÁN
+
+```
+ai-vn-comic/
+├── 01-37-[story-name].md       # 37 truyện hoàn chỉnh
+├── prompts/                     # 740+ AI image generation prompts
+│   ├── 01-37-*-prompts.md      # Prompts cho từng truyện
+│   └── README.md                # Hướng dẫn prompts
+├── images/                      # Hình ảnh được tạo
+├── README.md                    # Tài liệu chính (file này)
+├── CLAUDE.md                    # Hướng dẫn kỹ thuật cho AI/developers
+├── plan-next-stories.md         # Kế hoạch truyện tương lai
+└── execution-plan-arc1-5.md     # Lộ trình chi tiết Arc 1-5
+```
+
+---
+
 ## 📞 LIÊN HỆ & ĐÓNG GÓP
 
 Vũ trụ này là dự án mở. Mọi ý tưởng về truyền thuyết Việt Nam mới đều được chào đón!
+
+### Tài Liệu Tham Khảo
+- **[`README.md`](README.md)** - Tài liệu chính cho người đọc (Vietnamese)
+- **[`CLAUDE.md`](CLAUDE.md)** - Hướng dẫn kỹ thuật cho AI agents & developers (English)
+- **[`plan-next-stories.md`](plan-next-stories.md)** - Kế hoạch phát triển các truyện tiếp theo
+- **[`execution-plan-arc1-5.md`](execution-plan-arc1-5.md)** - Lộ trình thực thi chi tiết cho Arc 1-5
+- **[`prompts/`](prompts/)** - Thư mục chứa tất cả prompts cho AI image generation
 
 ---
 
