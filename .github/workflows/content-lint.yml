@@ -1,0 +1,41 @@
+name: Content lint
+
+on:
+  push:
+    branches: [DevMaster]
+  pull_request:
+
+jobs:
+  structure:
+    name: Structural lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run structure checker
+        run: python3 tools/check_structure.py
+
+  markdown:
+    name: markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: |
+            **/*.md
+            !node_modules
+            !site
+
+  links:
+    name: Link check (internal)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --offline --no-progress --config .lychee.toml "**/*.md"
+          fail: true

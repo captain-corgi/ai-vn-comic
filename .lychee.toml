@@ -1,0 +1,22 @@
+# Link checker config for ai-vn-comic.
+# https://github.com/lycheeverse/lychee
+
+# Only check markdown files and only follow links inside the repo.
+# External links are skipped to keep CI deterministic and avoid
+# false positives on rate-limited hosts.
+include_fragments = false
+include_verbatim = false
+max_redirects = 5
+max_concurrency = 8
+offline = true
+require_https = false
+
+# Paths to skip entirely.
+exclude_path = [
+    ".git",
+    "node_modules",
+    "site",
+]
+
+# Accept typical non-200 statuses from link targets inside the repo.
+accept = ["200..=299", "403", "429"]

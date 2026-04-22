@@ -1,0 +1,41 @@
+# Markdownlint config tuned for the ai-vn-comic content repo.
+# Most of the rules that matter for code docs do not apply to
+# a creative-writing universe written in Vietnamese; we keep the
+# structural ones and relax the stylistic ones.
+
+default: true
+
+# Allow long lines — Vietnamese prose + narrative markdown will
+# naturally go past 80 chars.
+MD013: false
+
+# Headings are used both as "Chương N" and as decorative banners
+# with emoji, so we don't enforce a strict start-of-line ATX style
+# or first-line H1 rule across every file.
+MD041: false
+
+# Duplicate headings are fine (e.g. every story has "## Chương 1").
+MD024: false
+
+# Inline HTML shows up in mermaid blocks and emoji headings.
+MD033: false
+
+# Bare URLs occur naturally in planning docs.
+MD034: false
+
+# Trailing punctuation in headings is fine for Vietnamese titles.
+MD026: false
+
+# Emphasis-as-heading pattern is common in the story files.
+MD036: false
+
+# Ordered-list numbering is not enforced — the reading order in
+# README.md deliberately continues numbering across sections.
+MD029: false
+
+# Some files use `***` as a section break.
+MD035: false
+
+# Whitespace inside code blocks / fenced blocks is intentional
+# (e.g. mermaid diagrams).
+MD046: false
