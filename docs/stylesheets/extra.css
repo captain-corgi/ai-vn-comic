@@ -1,0 +1,14 @@
+/* Slightly roomier tables for the character / timeline / glossary pages. */
+.md-typeset table:not([class]) {
+  font-size: 0.78rem;
+}
+
+/* Make the hero emoji in H1 titles a bit larger. */
+.md-typeset h1 {
+  line-height: 1.25;
+}
+
+/* Tighten the mermaid diagrams so they don't take up too much vertical space. */
+.md-typeset .mermaid {
+  text-align: center;
+}
