@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Node (for the future MkDocs / web tooling)
+node_modules/
+
+# Build output
+site/
+_site/
+dist/
+build/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Secrets / local env
+.env
+.env.local
