@@ -9,9 +9,9 @@ description: Tạo và viết truyện tranh bằng tiếng Việt với các th
 Kỹ năng này giúp bạn tạo ra những câu chuyện hấp dẫn bằng tiếng Việt với nhiều thể loại khác nhau như truyện cổ tích, ngụ ngôn, truyện ngắn, hay truyện thiếu nhi. Công cụ hỗ trợ phát triển ý tưởng, cấu trúc câu chuyện, và tạo ra nội dung chất lượng cao.
 
 ## Sử dụng khi nào
-- Cần viết truyện cổ tích or ngụ ngôn cho trẻ em
+- Cần viết truyện cổ tích hoặc ngụ ngôn cho trẻ em
 - Tạo truyện ngắn với chủ đề cụ thể
-- Phát triển nội dung giáo dục giải trí
+- Phát triển nội dung giáo dục và giải trí
 - Viết truyện với bài học đạo đức hoặc giá trị nhân văn
 - Tạo nội dung cho các nền tảng giải trí
 

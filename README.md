@@ -15,7 +15,7 @@ Vũ trụ này bao gồm **4 tuyến truyện chính** và **1 tuyến phản di
 - **🌳 Tuyến Hộ Vệ Tre (Bamboo Guardians)** - Bảo vệ không gian
 - **⚔️ Tuyến Khổng Lồ Sắt (Iron Giants)** - Bảo vệ vật chất  
 - **⏰ Tuyến Giữ Thời Gian (Time Keepers)** - Bảo vệ thời gian
-- **🗺️ Tuyến Thần S Việt (Vietnamese Deities)** - Bảo vệ di sản văn hóa
+- **🗺️ Tuyến Thần Sử Việt (Vietnamese Deities)** - Bảo vệ di sản văn hóa
 - **🌑 Tuyến Phản Diện (Villains)** - Nguồn gốc của bóng tối
 
 Tất cả hội tụ tại **Timeline Omega** và **The Eternal Council** - nơi mọi anh hùng và truyền thuyết Việt Nam tồn tại cùng nhau.
@@ -45,11 +45,11 @@ Các truyện origin có thể đọc độc lập, giới thiệu từng anh h�
 #### ⏰ Time Keepers Origins
 11. **[`11-the-time-keeper-tam.md`](11-the-time-keeper-tam.md)** - Tấm origin story
 
-#### 🗺️ Thần S Việt Origins
+#### 🗺️ Thần Sử Việt Origins
 12. **[`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md)** - Sơn Tinh, Vua Núi Thần
 13. **[`22-thuy-tinh-water-god.md`](22-thuy-tinh-water-god.md)** - Thủy Tinh, Vua Biển Thần  
 14. **[`23-the-eternal-rivalry.md`](23-the-eternal-rivalry.md)** - Đối đầu vĩnh cửu
-15. **[`24-thanh-dong-divine-fisher.md`](24-thanh-dong-divine-fisher.md)** - Thanh Đông, Người Chài Cá Thần
+15. **[`24-thanh-dong-divine-fisher.md`](24-thanh-dong-divine-fisher.md)** - Thánh Đống, Người Câu Mọi Thứ
 16. **[`25-thach-sanh-monster-slayer.md`](25-thach-sanh-monster-slayer.md)** - Thạch Sanh, Săn Quỷ
 
 #### 🏛️ Việt Hùng Origins
@@ -146,7 +146,7 @@ graph TB
     %% Phase 1: Origins - Vietnamese Deities
     D1[21-Sơn Tinh<br/>⛰️ Vua Núi Thần] --> ER
     D2[22-Thủy Tinh<br/>🌊 Vua Biển Thần] --> ER
-    V3[24-Thanh Đông<br/>🎣 Người Chài Cá] --> VG
+    V3[24-Thánh Đống<br/>🎣 Người Câu Mọi Thứ] --> VG
     
     %% Phase 1: Origins - Vietnamese Heroes
     H1[26-Lý Thông<br/>🗡️ Kẻ Phản Bội] --> VH
@@ -304,7 +304,7 @@ Nơi tất cả timeline hội tụ sau The Convergence. Đây là timeline chí
 - **Tuyến Khoai:** [`01-the-bamboo-sentinel.md`](01-the-bamboo-sentinel.md) → [`12-the-bamboo-council.md`](12-the-bamboo-council.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
 - **Tuyến Gióng:** [`07-the-iron-sentinel.md`](07-the-iron-sentinel.md) → [`13-the-iron-giant-council.md`](13-the-iron-giant-council.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
 - **Tuyến Tấm/Cám:** [`11-the-time-keeper-tam.md`](11-the-time-keeper-tam.md) → [`14-the-broken-timeline-cam.md`](14-the-broken-timeline-cam.md) → [`15-the-time-war.md`](15-the-time-war.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
-- **Tuyến Thần S Việt:** [`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md) → [`22-thuy-tinh-water-god.md`](22-thuy-tinh-water-god.md) → [`23-the-eternal-rivalry.md`](23-the-eternal-rivalry.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
+- **Tuyến Thần Sử Việt:** [`21-son-tinh-mountain-god.md`](21-son-tinh-mountain-god.md) → [`22-thuy-tinh-water-god.md`](22-thuy-tinh-water-god.md) → [`23-the-eternal-rivalry.md`](23-the-eternal-rivalry.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
 - **Tuyến Việt Hùng:** [`26-ly-thong-the-betrayer.md`](26-ly-thong-the-betrayer.md) → [`27-thanh-don-tactical-genius.md`](27-thanh-don-tactical-genius.md) → [`28-`](28-chu-dong-tu-buffalo-boy.md) đến [`37-`](37-birth-of-viet-nation-origin-saga.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
 
 ---
