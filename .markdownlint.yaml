@@ -52,3 +52,12 @@ MD032: false
 # Fenced code blocks used for ASCII diagrams and mermaid do not
 # always declare a language.
 MD040: false
+
+# Skill / reference files embed code fences flush against the
+# surrounding prose; adding blank lines everywhere would mass-edit
+# generated content for no rendered benefit.
+MD031: false
+
+# A handful of skill reference files contain stray single trailing
+# spaces. Fixable, but not worth blocking CI on legacy content.
+MD009: false
