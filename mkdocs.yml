@@ -1,0 +1,187 @@
+site_name: Vũ Trụ Truyện Tranh Việt Nam
+site_description: >
+  Vietnamese Comic Universe — 37 stories, 568 AI image prompts, and a
+  multiverse of Vietnamese legends reimagined as superhero narratives.
+site_author: captain-corgi
+site_url: https://captain-corgi.github.io/ai-vn-comic/
+repo_url: https://github.com/captain-corgi/ai-vn-comic
+repo_name: captain-corgi/ai-vn-comic
+edit_uri: edit/DevMaster/
+
+# Stories, prompts and images live at the repo root; the `tools/build_docs.py`
+# script stages them into `docs/` before `mkdocs build` runs.
+docs_dir: docs
+
+theme:
+  name: material
+  language: vi
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Chuyển sang giao diện tối
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Chuyển sang giao diện sáng
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - search.highlight
+    - search.share
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/captain-corgi/ai-vn-comic
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      # Vietnamese search with accent folding; Material's search plugin
+      # already normalises diacritics via its unicode tokenizer.
+      lang:
+        - vi
+        - en
+      separator: '[\s\-\.]+'
+
+nav:
+  - Trang chủ: index.md
+  - Hướng dẫn đọc: reading-order.md
+  - Nhân vật: characters.md
+  - Vũ trụ & dòng thời gian: timelines.md
+  - Thuật ngữ: glossary.md
+  - Truyện:
+      - Tổng quan: stories/index.md
+      - "🌳 Hộ Vệ Tre":
+          - stories/01-the-bamboo-sentinel.md
+          - stories/02-the-bamboo-sentinel-beta.md
+          - stories/03-the-bamboo-monk.md
+          - stories/04-the-bamboo-mechanic.md
+          - stories/05-the-bamboo-scavenger.md
+          - stories/06-the-bamboo-overlord.md
+      - "⚔️ Khổng Lồ Sắt":
+          - stories/07-the-iron-sentinel.md
+          - stories/08-the-silent-warrior.md
+          - stories/09-the-mechanical-titan.md
+          - stories/10-the-corrupted-giant.md
+      - "⏰ Giữ Thời Gian":
+          - stories/11-the-time-keeper-tam.md
+          - stories/14-the-broken-timeline-cam.md
+          - stories/15-the-time-war.md
+      - "🌑 Phản Diện":
+          - stories/18-the-voids-beginning.md
+          - stories/19-the-broken-king.md
+          - stories/20-the-dark-alliance.md
+      - "🗺️ Thần Sử Việt":
+          - stories/21-son-tinh-mountain-god.md
+          - stories/22-thuy-tinh-water-god.md
+          - stories/23-the-eternal-rivalry.md
+          - stories/24-thanh-dong-divine-fisher.md
+          - stories/25-thach-sanh-monster-slayer.md
+          - stories/26-ly-thong-the-betrayer.md
+          - stories/27-thanh-don-tactical-genius.md
+          - stories/28-chu-dong-tu-buffalo-boy.md
+          - stories/29-tien-dung-celestial-princess.md
+          - stories/30-tu-bat-tu-four-immortals.md
+          - stories/31-an-duong-vuong-king-of-citadel.md
+          - stories/32-kim-quy-golden-turtle.md
+          - stories/33-ho-guom-sacred-sword.md
+          - stories/34-le-loi-peoples-king.md
+          - stories/35-au-co-mother-of-nation.md
+          - stories/36-lac-long-quan-dragon-king.md
+          - stories/37-birth-of-viet-nation-origin-saga.md
+      - "🌌 Hội Tụ (Convergence)":
+          - stories/12-the-bamboo-council.md
+          - stories/13-the-iron-giant-council.md
+          - stories/16-the-convergence.md
+          - stories/17-the-eternal-council.md
+  - Prompts:
+      - Tổng quan: prompts/index.md
+      - "🌳 Hộ Vệ Tre":
+          - prompts/01-the-bamboo-sentinel-prompts.md
+          - prompts/02-the-bamboo-sentinel-beta-prompts.md
+          - prompts/03-the-bamboo-monk-prompts.md
+          - prompts/04-the-bamboo-mechanic-prompts.md
+          - prompts/05-the-bamboo-scavenger-prompts.md
+          - prompts/06-the-bamboo-overlord-prompts.md
+      - "⚔️ Khổng Lồ Sắt":
+          - prompts/07-the-iron-sentinel-prompts.md
+          - prompts/08-the-silent-warrior-prompts.md
+          - prompts/09-the-mechanical-titan-prompts.md
+          - prompts/10-the-corrupted-giant-prompts.md
+      - "⏰ Giữ Thời Gian":
+          - prompts/11-the-time-keeper-tam-prompts.md
+          - prompts/14-the-broken-timeline-cam-prompts.md
+          - prompts/15-the-time-war-prompts.md
+      - "🌑 Phản Diện":
+          - prompts/18-the-voids-beginning-prompts.md
+          - prompts/19-the-broken-king-prompts.md
+          - prompts/20-the-dark-alliance-prompts.md
+      - "🗺️ Thần Sử Việt":
+          - prompts/21-son-tinh-mountain-god-prompts.md
+          - prompts/22-thuy-tinh-water-god-prompts.md
+          - prompts/23-the-eternal-rivalry-prompts.md
+          - prompts/24-thanh-dong-divine-fisher-prompts.md
+          - prompts/25-thach-sanh-monster-slayer-prompts.md
+          - prompts/26-ly-thong-the-betrayer-prompts.md
+          - prompts/27-thanh-don-tactical-genius-prompts.md
+          - prompts/28-chu-dong-tu-buffalo-boy-prompts.md
+          - prompts/29-tien-dung-celestial-princess-prompts.md
+          - prompts/30-tu-bat-tu-four-immortals-prompts.md
+          - prompts/31-an-duong-vuong-king-of-citadel-prompts.md
+          - prompts/32-kim-quy-golden-turtle-prompts.md
+          - prompts/33-ho-guom-sacred-sword-prompts.md
+          - prompts/34-le-loi-peoples-king-prompts.md
+          - prompts/35-au-co-mother-of-nation-prompts.md
+          - prompts/36-lac-long-quan-dragon-king-prompts.md
+          - prompts/37-birth-of-viet-nation-origin-saga-prompts.md
+      - "🌌 Hội Tụ (Convergence)":
+          - prompts/12-the-bamboo-council-prompts.md
+          - prompts/13-the-iron-giant-council-prompts.md
+          - prompts/16-the-convergence-prompts.md
+          - prompts/17-the-eternal-council-prompts.md
