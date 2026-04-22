@@ -39,3 +39,16 @@ MD035: false
 # Whitespace inside code blocks / fenced blocks is intentional
 # (e.g. mermaid diagrams).
 MD046: false
+
+# Many prompt files place "### N. Scene name" headings directly
+# adjacent to the preceding `**Prompt:**` line. Enforcing blank
+# lines around every heading would require mass reformatting of
+# all 37 prompt files and changes nothing about rendered output.
+MD022: false
+
+# Same rationale as MD022 for lists that sit flush against a heading.
+MD032: false
+
+# Fenced code blocks used for ASCII diagrams and mermaid do not
+# always declare a language.
+MD040: false
