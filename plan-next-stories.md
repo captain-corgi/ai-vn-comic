@@ -4,6 +4,36 @@
 
 ---
 
+## ⚠️ TRẠNG THÁI (cập nhật 2026-04)
+
+File gốc này được viết khi vũ trụ mới chỉ có 20 truyện. Rất nhiều entry "ưu tiên cao / trung" dưới đây **đã được viết xong** ở các truyện 21–37 trên `DevMaster`. Dưới đây là ánh xạ nhanh để tránh lặp lại công việc; phần còn lại của tài liệu giữ nguyên để phục vụ mục đích lịch sử / tham khảo.
+
+### ✅ Đã hoàn thành
+| Entry trong file này | Truyện đã viết |
+| --- | --- |
+| 1. Sơn Tinh Thủy Tinh | `21-son-tinh-mountain-god.md`, `22-thuy-tinh-water-god.md`, `23-the-eternal-rivalry.md` |
+| 2. Thánh Đống (Divine Fisher) | `24-thanh-dong-divine-fisher.md` |
+| 3. Chử Đồng Tử & Tiên Dung | `28-chu-dong-tu-buffalo-boy.md`, `29-tien-dung-celestial-princess.md` |
+| 4. Thạch Sanh | `25-thach-sanh-monster-slayer.md` |
+| 5. Thánh Đôn (Tactical Genius) | `27-thanh-don-tactical-genius.md` |
+| 8. Tứ Bất Tử | `30-tu-bat-tu-four-immortals.md` |
+| 9. An Dương Vương & Nỏ Thần | `31-an-duong-vuong-king-of-citadel.md`, `32-kim-quy-golden-turtle.md` |
+| 11. Lý Thông | `26-ly-thong-the-betrayer.md` |
+| 13. Âu Cơ & Lạc Long Quân | `35-au-co-mother-of-nation.md`, `36-lac-long-quan-dragon-king.md`, `37-birth-of-viet-nation-origin-saga.md` |
+| 14. Hồ Gươm / Lê Lợi | `33-ho-guom-sacred-sword.md`, `34-le-loi-peoples-king.md` |
+
+### 🟡 Chưa viết (vẫn là backlog hợp lệ)
+- 6. **Mị Nương** — chưa có truyện riêng; hiện chỉ là cameo trong arc Sơn Tinh – Thủy Tinh.
+- 7. **Trầu Cau** — chưa có.
+- 10. **Mị (chị kế ác)** — chưa có truyện riêng; "Mị-Shadow" mới chỉ là teaser trong Dark Alliance.
+- 12. **Thánh Tản Viên** — chưa có truyện riêng.
+- 15. **Bánh Chưng Bánh Dày / Lang Liêu** — chưa có.
+- Các lộ trình dài hạn (100 anh hùng, crossover lịch sử thực, modern heroes) vẫn còn giá trị.
+
+> Vui lòng cập nhật bảng này khi thêm / xoá truyện, hoặc cân nhắc thay thế file này bằng một tracker được sinh tự động từ front-matter YAML (xem phần "Improvement Opportunities" trong [`CLAUDE.md`](CLAUDE.md)).
+
+---
+
 ## 🎯 ƯU TIÊN CAO (Đã được teaser trong vũ trụ)
 
 ### 1. **Sơn Tinh Thủy Tinh** (Thần Núi vs Thần Nước)

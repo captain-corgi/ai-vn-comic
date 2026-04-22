@@ -4,6 +4,35 @@
 
 ---
 
+## ⚠️ HISTORICAL DOCUMENT (cập nhật 2026-04)
+
+**Tài liệu này đã được thay thế bởi trạng thái thực tế của repo.** Khi kế hoạch được viết, các truyện Arc 1–5 chưa tồn tại; hiện tại các truyện `21`–`37` đã được viết xong nhưng **một vài tên file đã thay đổi so với dự kiến ban đầu**. Trước khi dùng file này làm nguồn chính, hãy đối chiếu với `ls *.md` hoặc [`README.md`](README.md).
+
+### Ánh xạ file dự kiến → file thực tế
+
+| Dự kiến trong file này | Thực tế trên `DevMaster` |
+| --- | --- |
+| `21-son-tinh-mountain-god.md` | ✅ y như dự kiến |
+| `22-thuy-tinh-water-god.md` | ✅ y như dự kiến |
+| `23-the-eternal-rivalry.md` | ✅ y như dự kiến |
+| `24-thanh-dong-divine-fisher.md` | ✅ y như dự kiến |
+| `25-thach-sanh-monster-slayer.md` | ✅ y như dự kiến |
+| `26-ly-thong-the-betrayer.md` | ✅ y như dự kiến |
+| `27-thanh-don-tactical-genius.md` | ✅ y như dự kiến |
+| `28-chu-dong-tu-buffalo-boy.md` | ✅ y như dự kiến |
+| `29-tien-dung-celestial-princess.md` | ✅ y như dự kiến |
+| `30-tu-bat-tu-four-immortals.md` | ✅ y như dự kiến |
+| `31-an-duong-vuong-divine-crossbow.md` | 🔁 đổi tên → `31-an-duong-vuong-king-of-citadel.md` |
+| `32-ho-guom-returned-sword.md` | 🔁 tách thành `32-kim-quy-golden-turtle.md` + `33-ho-guom-sacred-sword.md` + `34-le-loi-peoples-king.md` |
+| `33-au-co-lac-long-quan-part1.md` | 🔁 viết lại thành `35-au-co-mother-of-nation.md` |
+| `34-au-co-lac-long-quan-part2.md` | 🔁 viết lại thành `36-lac-long-quan-dragon-king.md` |
+| `35-au-co-lac-long-quan-part3.md` | 🔁 viết lại thành `37-birth-of-viet-nation-origin-saga.md` |
+| `36-the-nature-council.md` .. `40-the-hundred-heroes.md` | ❌ chưa viết — các "arc finale / connector" này vẫn là backlog hợp lệ |
+
+File này được giữ lại để phục vụ lịch sử sản xuất. Đối với kế hoạch tương lai đang còn giá trị, xem phần "🟡 Chưa viết" trong [`plan-next-stories.md`](plan-next-stories.md).
+
+---
+
 ## 📋 TỔNG QUAN
 
 **Tổng số truyện cần viết:** 13 truyện chính + 5 truyện kết nối = **18 truyện mới**

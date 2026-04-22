@@ -29,7 +29,7 @@ Mỗi file có format: `[number]-[story-name]-prompts.md`
 - [`14-the-broken-timeline-cam-prompts.md`](14-the-broken-timeline-cam-prompts.md)
 - [`15-the-time-war-prompts.md`](15-the-time-war-prompts.md)
 
-### **🗺️ Tuyến Thần S Việt (Vietnamese Deities)**
+### **🗺️ Tuyến Thần Sử Việt (Vietnamese Deities)**
 - [`21-son-tinh-mountain-god-prompts.md`](21-son-tinh-mountain-god-prompts.md)
 - [`22-thuy-tinh-water-god-prompts.md`](22-thuy-tinh-water-god-prompts.md)
 - [`23-the-eternal-rivalry-prompts.md`](23-the-eternal-rivalry-prompts.md)
@@ -59,11 +59,11 @@ Mỗi file có format: `[number]-[story-name]-prompts.md`
 - [`16-the-convergence-prompts.md`](16-the-convergence-prompts.md)
 - [`17-the-eternal-council-prompts.md`](17-the-eternal-council-prompts.md)
 
-## 📊 Thống Kế
+## 📊 Thống Kê
 
 - **Tổng số file:** 37 prompts
-- **Tổng số prompts:** 740+ detailed prompts
-- **Structure mỗi file:** 10 chapters × 2 prompts + EPILOGUE + POST-CREDIT
+- **Tổng số prompts:** **568** detailed prompts (tự kiểm chứng bằng `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l`)
+- **Structure mỗi file:** mục tiêu 10 chapters × 2 prompts + EPILOGUE + POST-CREDIT (thực tế hiện tại 3–10 chapters / 16–46 prompts tùy file)
 - **Content:** Character designs, backgrounds, art style guidelines
 
 ## 🎯 Sử Dụng

@@ -15,7 +15,7 @@ This repository contains a comprehensive Vietnamese Comic Universe - a multivers
 ## 🏗️ Repository Structure
 
 ```
-/home/runner/work/ai-vn-comic/ai-vn-comic/
+ai-vn-comic/
 ├── 01-37 story files (.md)           # Main comic narratives in Vietnamese
 ├── prompts/                           # AI image generation prompts
 │   ├── 01-37-*-prompts.md            # Corresponding prompts for each story
@@ -98,8 +98,8 @@ Each story file follows this consistent structure:
 
 ### Key Elements:
 - **Title header** with genre and source legend
-- **Character sheet images** at the beginning
-- **10 chapters** with embedded image markers (`![Description](images/N.png)`)
+- **Character sheet images** at the beginning *(only stories `01` and `12` currently embed `images/N.png` markers; the rest rely on the matching `prompts/NN-*-prompts.md` file)*
+- **~4–12 chapters** depending on the arc (target is 10+ for new stories; early Bamboo arc stories `02`–`06` and `15-the-time-war` are shorter and are candidates for expansion)
 - **Vietnamese dialogue and narration** throughout
 - **EPILOGUE** wrapping up the story
 - **POST-CREDIT scene** for universe connectivity
@@ -154,8 +154,8 @@ Each story has a corresponding prompt file: `[number]-[story-name]-prompts.md`
 ```
 
 ### Prompt Features:
-- **740+ total prompts** across all stories
-- **2 prompts per chapter** (opening + key moment)
+- **568 total prompts** across all stories (as of the current `DevMaster` snapshot — run `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l` to verify)
+- **~2 prompts per chapter** (opening + key moment) — per-file counts vary from **16 to 46** entries
 - **Character design references** for consistency
 - **Art style guidelines** (anime/cyberpunk aesthetic)
 - **Vietnamese cultural elements** integrated into visuals
@@ -241,11 +241,13 @@ Each story has a corresponding prompt file: `[number]-[story-name]-prompts.md`
 ## 📊 Current Statistics
 
 - **Total Stories**: 37 complete narratives
-- **Total Prompts**: 740+ detailed image generation prompts
+- **Total Prompts**: 568 detailed image generation prompts
 - **Storylines**: 5 main arcs (4 hero + 1 villain)
 - **Universes**: 10+ distinct timelines
 - **Major Characters**: 50+
 - **Councils**: 4 major councils
+
+> Stats are verified by `tools/check_structure.py` in CI. If you change a prompt or story file, re-run it so the numbers above stay honest.
 
 ---
 
@@ -340,13 +342,13 @@ This is not just "superheroes in Vietnam" - it's:
 - Names: Lowercase with hyphens
 
 ### Story Length
-- **~300-400 lines** per story file
-- **10 chapters** standard
+- **~150–500 lines** per story file in the current corpus (target for *new* stories is 300+ lines / 10 chapters)
+- **10 chapters** is the target for new stories; stories `02`–`06` and `15` are shorter historical entries
 - **1 epilogue** required
 - **1 post-credit scene** required
 
 ### Prompt Count
-- **20+ prompts** per story minimum
+- **~16–46 prompts** per story today; target for new stories is 20+
 - **2 per chapter** (opening + key moment)
 - **Character sheets** at beginning
 - **Special scenes** for epilogue/post-credit
