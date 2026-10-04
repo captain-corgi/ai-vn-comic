@@ -95,6 +95,7 @@ nav:
   - Nhân vật: characters.md
   - Vũ trụ & dòng thời gian: timelines.md
   - Thuật ngữ: glossary.md
+  - Nghiên cứu: research-doom-doomsday-secret-wars.md
   - Truyện:
       - Tổng quan: stories/index.md
       - "🌳 Hộ Vệ Tre":
@@ -140,6 +141,9 @@ nav:
           - stories/13-the-iron-giant-council.md
           - stories/16-the-convergence.md
           - stories/17-the-eternal-council.md
+      - "🎭 Doomsday Saga":
+          - stories/38-the-iron-mask-doomsday.md
+          - stories/39-the-secret-war-dai-la.md
   - Prompts:
       - Tổng quan: prompts/index.md
       - "🌳 Hộ Vệ Tre":
@@ -185,3 +189,6 @@ nav:
           - prompts/13-the-iron-giant-council-prompts.md
           - prompts/16-the-convergence-prompts.md
           - prompts/17-the-eternal-council-prompts.md
+      - "🎭 Doomsday Saga":
+          - prompts/38-the-iron-mask-doomsday-prompts.md
+          - prompts/39-the-secret-war-dai-la-prompts.md

@@ -16,9 +16,9 @@ This repository contains a comprehensive Vietnamese Comic Universe - a multivers
 
 ```
 ai-vn-comic/
-├── 01-37 story files (.md)           # Main comic narratives in Vietnamese
+├── 01-39 story files (.md)           # Main comic narratives in Vietnamese
 ├── prompts/                           # AI image generation prompts
-│   ├── 01-37-*-prompts.md            # Corresponding prompts for each story
+│   ├── 01-39-*-prompts.md            # Corresponding prompts for each story
 │   └── README.md                      # Prompts directory guide
 ├── images/                            # Generated artwork for stories
 ├── .claude/                           # Claude AI configuration
@@ -34,7 +34,7 @@ ai-vn-comic/
 
 ## 📚 Content Organization
 
-### **37 Complete Stories** organized into 5 main storylines:
+### **39 Complete Stories** organized into 6 main storylines:
 
 1. **🌳 Bamboo Guardians (Hộ Vệ Tre)** - Stories 01-06
    - Space/dimension protectors with nanotech bamboo powers
@@ -53,6 +53,10 @@ ai-vn-comic/
 
 5. **🌑 Villains (Phản Diện)** - Stories 18-20
    - Complex antagonists with redemption arcs
+
+6. **🎭 Doomsday Saga** - Stories 38-39
+   - Multiverse incursion crisis and its aftermath
+   - Based on Cao Biền trấn yểm, Cao Lỗ & Nỏ Liên Châu, ca dao Thằng Bờm
 
 ### **Convergence Stories** - 12-17
 Unite all storylines at **Timeline Omega** and **The Eternal Council**
@@ -154,7 +158,7 @@ Each story has a corresponding prompt file: `[number]-[story-name]-prompts.md`
 ```
 
 ### Prompt Features:
-- **568 total prompts** across all stories (as of the current `DevMaster` snapshot — run `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l` to verify)
+- **620 total prompts** across all stories (as of the current `DevMaster` snapshot — run `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l` to verify)
 - **~2 prompts per chapter** (opening + key moment) — per-file counts vary from **16 to 46** entries
 - **Character design references** for consistency
 - **Art style guidelines** (anime/cyberpunk aesthetic)
@@ -240,9 +244,9 @@ Each story has a corresponding prompt file: `[number]-[story-name]-prompts.md`
 
 ## 📊 Current Statistics
 
-- **Total Stories**: 37 complete narratives
-- **Total Prompts**: 568 detailed image generation prompts
-- **Storylines**: 5 main arcs (4 hero + 1 villain)
+- **Total Stories**: 39 complete narratives
+- **Total Prompts**: 620 detailed image generation prompts
+- **Storylines**: 6 main arcs (4 hero + 1 villain + Doomsday Saga)
 - **Universes**: 10+ distinct timelines
 - **Major Characters**: 50+
 - **Councils**: 4 major councils
@@ -296,7 +300,7 @@ Before making changes:
 - `README.md` - Main documentation and reading guide
 - `plan-next-stories.md` - Planned future content
 - `execution-plan-arc1-5.md` - Detailed arc plans
-- Any existing story file (01-37) - Format reference
+- Any existing story file (01-39) - Format reference
 - Any prompt file in `prompts/` - Prompt format reference
 
 ---
@@ -338,7 +342,7 @@ This is not just "superheroes in Vietnam" - it's:
 ### File Naming Convention
 - Stories: `[number]-[story-name].md`
 - Prompts: `[number]-[story-name]-prompts.md`
-- Numbers: Sequential (01-37 currently)
+- Numbers: Sequential (01-39 currently)
 - Names: Lowercase with hyphens
 
 ### Story Length

@@ -2,23 +2,24 @@
 
 **Vietnamese Comic Universe — Nơi Truyền Thuyết Trở Thành Hiện Thực.**
 
-Đây là trang web của dự án kể chuyện **ai-vn-comic** — một vũ trụ kết nối 37
+Đây là trang web của dự án kể chuyện **ai-vn-comic** — một vũ trụ kết nối 39
 truyền thuyết và cổ tích Việt Nam thành các truyện siêu anh hùng đa chiều
 giống Marvel / DC, nhưng bám sâu vào văn hóa Việt.
 
 ## Nhanh
 
-- **37 truyện** độc lập, kết nối qua **Timeline Omega** và các hội đồng
+- **39 truyện** độc lập, kết nối qua **Timeline Omega** và các hội đồng
   (`Hội Đồng Hộ Vệ Vô Hạn`, `Hội Đồng Khổng Lồ Sắt`, `Hội Đồng Vĩnh Cửu`).
-- **568 prompt** hình minh họa AI (anime / cyberpunk Neo Saigon + mỹ thuật
+- **620 prompt** hình minh họa AI (anime / cyberpunk Neo Saigon + mỹ thuật
   Việt truyền thống), song song từng chương truyện.
-- **5 tuyến truyện chính** (4 anh hùng + 1 phản diện) + các arc hội tụ.
+- **5 tuyến truyện chính** (4 anh hùng + 1 phản diện) + các arc hội tụ +
+  **Doomsday Saga** (38–39).
 
 ## Bắt đầu đọc
 
-- **[Hướng dẫn đọc](reading-order.md)** — thứ tự gợi ý qua 3 phase
-  (Origins → Convergence → Cultural Heritage).
-- **[Truyện](stories/index.md)** — toàn bộ 37 file, tìm kiếm được theo
+- **[Hướng dẫn đọc](reading-order.md)** — thứ tự gợi ý qua 4 phase
+  (Origins → Convergence → Eternal Council → Doomsday Saga).
+- **[Truyện](stories/index.md)** — toàn bộ 39 file, tìm kiếm được theo
   nhân vật, vũ trụ, hoặc khái niệm.
 - **[Nhân vật](characters.md)** — sổ tay nhân vật chính và các phiên bản
   đa vũ trụ của họ.

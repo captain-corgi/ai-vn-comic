@@ -69,6 +69,95 @@ diệt" universe mà **xóa chúng khỏi tồn tại**.
 : Phó tướng chính của The Void. Thao túng thời gian bằng cách làm gãy vỡ
 timeline.
 
+## Doomsday Saga (truyện 38–39)
+
+**Tương Xung**
+: Hiện tượng hai vũ trụ chiếm cùng một điểm không-thời gian — một "Trái Đất
+thứ hai" xuất hiện trên bầu trời. Nếu hai thế giới chạm nhau, cả hai bị
+xóa sổ.
+
+**Điểm Giao Ba**
+: Điểm hội tụ mà ba vũ trụ (Omega, Delta-2077, Đại La-1) cùng rơi vào —
+tính theo phương trình của Cao Lỗ, còn bảy ngày trước khi va chạm.
+
+**Các Đấng Thiên Ngoại**
+: Những kẻ "đứng ngoài trời" — tạo ra cả Timeweavers, và tỉa cành đa vũ
+trụ bằng chiếc kéo vàng. Xuất hiện như một vùng trống vàng đầy hàng
+triệu con mắt.
+
+**Hình Nhân Sắt**
+: Hình nhân rơm-và-sắt thế mạng mà Thiết Diện điều khiển từ xa bằng bùa
+chú. "Thiết Diện có một ngàn hình nhân."
+
+**Bom Hư Không**
+: Vũ khí của Delta-2077 chế từ mảnh năng lượng The Void sót lại — đủ sức
+xóa một vũ trụ. Lõi bị Thiết Diện đánh cắp.
+
+**Bè Tre**
+: Chiếc bè tre khắc phương trình bảo toàn ký ức, do Khoai Prime và Cao Lỗ
+chế tạo — chở sáu người qua vụ xóa vũ trụ, nằm dưới cát Hoang Thời tám năm.
+
+**Diều Phi Thiên**
+: Cánh diều giấy dó khổng lồ khung sắt thiên thạch, khắc chín ngàn phù
+chú, mang lõi Hư Không — phương tiện Cao Biền dùng để vượt ra ngoài đa
+vũ trụ.
+
+**Universe Đại La-1**
+: Thế giới nơi thành Đại La chưa bao giờ đổi tên thành Thăng Long —
+quê hương của Cao Biền, Cao Lỗ, Thanh Vân, Cao Ngân.
+
+**Đại La Giới**
+: Battleworld do Thần Đế tạo ra sau khi đánh cắp sức mạnh Các Đấng Thiên
+Ngoại — một tấm bản đồ chắp vá khâu lại bằng chín Cột Trấn sắt.
+
+**Thần Đế**
+: Danh hiệu của Cao Biền khi cai trị Đại La Giới trong áo bào vàng. Kinh
+lệ: *"Trước Thần Đế, không có gì cả. Sau Thần Đế, không cần gì nữa."*
+
+**Đội Thiết Kỵ Phù Đổng**
+: Lực lượng kỵ binh giáp sắt cưỡi ngựa sắt phun lửa, tất cả mang khuôn
+mặt Thánh Gióng — công cụ giữ "trật tự" của Thần Đế.
+
+**Lũy Tre Vạn Dặm**
+: Bức tường tre xanh khắc phù chú bao quanh toàn bộ Đại La Giới, giữ lũ
+Ma Trơi và mảnh vỡ các thế giới chết bên ngoài.
+
+**Cột Trấn**
+: Cột sắt khắc phù chú đỏ ghim các vùng đất vào bản đồ Đại La Giới — cũng
+là hình phạt: kẻ "nói dối" về thế giới cũ bị hóa thành cột.
+
+**Bọc Trăm Trứng**
+: Sức mạnh Các Đấng Thiên Ngoại được Bờm chia thành một trăm quả trứng
+ánh sáng — mỗi quả là mầm một vũ trụ, trao cho một trăm người gìn giữ.
+Nhưng bản đồ mới đếm được **Trứng Thứ Một Trăm Lẻ Một** đen như mực,
+vỏ mang hoa văn chín đuôi cáo.
+
+**Đảo Chiến**
+: Hòn đảo đá đen trôi giữa bầu trời do Thần Đế tạo ra cho một đêm — đấu
+trường của **Cuộc Chiến Bí Mật**, nơi kẻ thắng được điều tim mình mong
+muốn nhất, kẻ thua hóa Cột Trấn.
+
+**Cuộc Chiến Bí Mật**
+: Trận đấu trên Đảo Chiến giữa những người còn nhớ và các phản diện được
+Thần Đế nhặt về — thực chất là mồi nhử để hắn lấy lõi ký ức của Bè Tre.
+
+**Kinh Thành Đại La**
+: Thủ đô của Đại La Giới — chín vòng tường xoắn ốc như thành Cổ Loa,
+giữa là điện của Thần Đế.
+
+**Trấn Tre / Trấn Núi / Trấn Nước / Trấn Neon / Trấn Phù Đổng**
+: Năm trấn của Đại La Giới: rừng tre bạt ngàn (Phú Ông), vùng núi của Sơn
+Tinh, vương quốc nổi của Thủy Tinh, tháp neon Neo Saigon, và vùng đồng
+lúa quê hương Thiết Kỵ.
+
+**Hoang Thời**
+: Sa mạc phủ đầy đồng hồ vỡ ở rìa Đại La Giới — nơi Bè Tre bị chôn và
+kim đồng hồ quay ngược.
+
+**Cao Biền dậy non**
+: Thành ngữ chế giễu kẻ hành động quá sớm rồi thất bại — chủ đề xuyên
+suốt saga về số phận của Cao Biền.
+
 ## Nguyên mẫu truyền thuyết
 
 **Cây tre trăm đốt**
