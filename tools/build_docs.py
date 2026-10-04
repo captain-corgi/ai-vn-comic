@@ -154,7 +154,7 @@ def main(argv: list[str] | None = None) -> int:
         STAGED_PROMPTS / "index.md",
         "Prompts tạo hình minh họa",
         "Mỗi truyện có một file prompt đi kèm để tạo hình minh họa AI. "
-        "Tổng cộng khoảng 568 prompts trong toàn bộ vũ trụ.",
+        "Tổng cộng khoảng 620 prompts trong toàn bộ vũ trụ.",
         prompts,
     )
 

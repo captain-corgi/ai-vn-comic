@@ -80,6 +80,29 @@ Nơi khởi nguyên dân tộc — Âu Cơ và Lạc Long Quân.
 
 - **Sự kiện:** [35](stories/35-au-co-mother-of-nation.md), [36](stories/36-lac-long-quan-dragon-king.md), [37](stories/37-birth-of-viet-nation-origin-saga.md).
 
+### Universe Đại La-1
+
+Thế giới nơi thành Đại La chưa bao giờ đổi tên thành Thăng Long.
+
+- **Thành viên:** Cao Biền (Thiết Diện), Cao Lỗ, Cao Ngân, Thanh Vân, Thằng
+  Bờm (bản Đại La-1), Thần Long Đỗ, Hồ Tinh.
+- **Aesthetic:** Đại La cổ + Cổ Loa xoắn ốc, Hồ Tây mờ sương, giấy dó và
+  phù chú.
+- **Sự kiện:** [38](stories/38-the-iron-mask-doomsday.md), [39](stories/39-the-secret-war-dai-la.md).
+
+### Đại La Giới
+
+Battleworld do Thần Đế dựng nên sau khi nắm sức mạnh Các Đấng Thiên Ngoại —
+các mảnh còn sót của nhiều thế giới được "trấn yểm" thành một tấm bản đồ
+duy nhất, ghim bởi chín Cột Trấn sắt và vây quanh bởi Lũy Tre Vạn Dặm.
+
+- **Vùng:** Kinh Thành Đại La (chín vòng xoắn ốc), Trấn Tre, Trấn Núi,
+  Trấn Nước, Trấn Neon, Trấn Phù Đổng, Hoang Thời.
+- **Trạng thái:** Tan đi như sương ở cuối truyện 39, nhường chỗ cho một
+  trăm vũ trụ từ Bọc Trăm Trứng.
+- **Sự kiện:** [38](stories/38-the-iron-mask-doomsday.md) (post-credit),
+  [39](stories/39-the-secret-war-dai-la.md).
+
 ### Negative-space / Void-touched realms
 
 Nơi The Void đã ăn mòn thực tại.

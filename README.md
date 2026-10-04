@@ -98,6 +98,15 @@ Khám phá nguồn gốc và động cơ của các phản diện:
 
 ---
 
+### **PHASE 5: DOOMSDAY SAGA (Nghiệt Ngã) - Đọc theo thứ tự**
+
+Saga crisis-event đa vũ trụ: ba thế giới lao vào nhau, và một người đeo mặt nạ sắt nắm lấy sức mạnh của trời:
+
+38. **[`38-the-iron-mask-doomsday.md`](38-the-iron-mask-doomsday.md)** - Cao Biền Thiết Diện, Tương Xung và sự kiện Doomsday
+39. **[`39-the-secret-war-dai-la.md`](39-the-secret-war-dai-la.md)** - Đại La Giới của Thần Đế và Cuộc Chiến Bí Mật
+
+---
+
 ## 🗺️ BẢN ĐỒ VŨ TRỤ
 
 ### **SƠ ĐỒ LIÊN KẾT TUYẾN TRUYỆN**
@@ -119,6 +128,11 @@ graph TB
     ER[23-Eternal Rivalry<br/>🗺️ Sơn Tinh vs Thủy Tinh] --> CONV
     VG[25-Thạch Sanh<br/>🏹 Săn Quỷ] --> CONV
     VH[37-Birth of Việt Nation<br/>🏛️ Khởi Nguyên Dân Tộc] --> CONV
+    
+    %% Phase 5: Doomsday Saga - After the Council
+    DOOM[38-Iron Mask Doomsday<br/>🎭 Tương Xung & Thiết Diện] --> SECRETWAR[39-Secret War of Đại La<br/>👑 Đại La Giới]
+    OMEGA --> DOOM
+    SECRETWAR --> EGGS[🥚 Bọc Trăm Trứng<br/>100 universes reborn]
     
     %% Villains - Influence Convergence
     DA[20-The Dark Alliance<br/>🌑 Liên Minh Phản Diện] --> CONV
@@ -298,7 +312,8 @@ Nơi tất cả timeline hội tụ sau The Convergence. Đây là timeline chí
 2. Đọc Convergence ([`12-`](12-the-bamboo-council.md) đến [`15-`](15-the-time-war.md))
 3. Đọc Crisis ([`16-`](16-the-convergence.md) đến [`17-`](17-the-eternal-council.md))
 4. Đọc Villains ([`18-`](18-the-voids-beginning.md) đến [`20-`](20-the-dark-alliance.md))
-5. Đọc lại từ đầu để bắt các chi tiết kết nối
+5. Đọc Doomsday Saga ([`38-`](38-the-iron-mask-doomsday.md) đến [`39-`](39-the-secret-war-dai-la.md)) - đọc liền mạch, đây là một câu chuyện hai phần
+6. Đọc lại từ đầu để bắt các chi tiết kết nối
 
 ### **Theo Tuyến Nhân Vật:**
 - **Tuyến Khoai:** [`01-the-bamboo-sentinel.md`](01-the-bamboo-sentinel.md) → [`12-the-bamboo-council.md`](12-the-bamboo-council.md) → [`16-the-convergence.md`](16-the-convergence.md) → [`17-the-eternal-council.md`](17-the-eternal-council.md)
@@ -323,8 +338,8 @@ Xem `plan-next-stories.md` để biết các truyện sắp tới.
 
 ## 📊 THỐNG KÊ
 
-- **Tổng số truyện:** 37
-- **Tổng số file prompt:** 37 (đã hoàn chỉnh)
+- **Tổng số truyện:** 39
+- **Tổng số file prompt:** 39 (đã hoàn chỉnh)
 - **Số tuyến truyện:** 5 (4 anh hùng + 1 phản diện)
 - **Số vũ trụ:** 10+
 - **Số timeline:** Vô hạn
@@ -332,9 +347,9 @@ Xem `plan-next-stories.md` để biết các truyện sắp tới.
 - **Số hội đồng:** 4
 
 ### **📝 File Prompts Hoàn Chỉnh**
-Tất cả 37 truyện đều có file **image generation prompts** tương ứng trong thư mục [`prompts/`](prompts/) với format `[number]-[story-name]-prompts.md`:
+Tất cả 39 truyện đều có file **image generation prompts** tương ứng trong thư mục [`prompts/`](prompts/) với format `[number]-[story-name]-prompts.md`:
 - **Structure:** 10 chapters × 2 prompts + EPILOGUE + POST-CREDIT
-- **Total prompts:** 740+ detailed image generation prompts
+- **Total prompts:** 620 detailed image generation prompts
 - **Content:** Character designs, backgrounds, art style guidelines
 - **Purpose:** Sẵn sàng cho AI image generation
 - **Location:** [`prompts/`](prompts/) - Xem đầy đủ trong [`prompts/README.md`](prompts/README.md)
@@ -372,9 +387,9 @@ Tất cả 37 truyện đều có file **image generation prompts** tương ứn
 
 ```
 ai-vn-comic/
-├── 01-37-[story-name].md       # 37 truyện hoàn chỉnh
-├── prompts/                     # 740+ AI image generation prompts
-│   ├── 01-37-*-prompts.md      # Prompts cho từng truyện
+├── 01-39-[story-name].md       # 39 truyện hoàn chỉnh
+├── prompts/                     # 620 AI image generation prompts
+│   ├── 01-39-*-prompts.md      # Prompts cho từng truyện
 │   └── README.md                # Hướng dẫn prompts
 ├── images/                      # Hình ảnh được tạo
 ├── README.md                    # Tài liệu chính (file này)

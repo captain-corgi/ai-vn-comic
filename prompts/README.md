@@ -1,6 +1,6 @@
 # 🎨 Vietnamese Comic Universe - Image Generation Prompts
 
-Thư mục này chứa tất cả **37 file image generation prompts** cho Vietnamese Comic Universe.
+Thư mục này chứa tất cả **39 file image generation prompts** cho Vietnamese Comic Universe.
 
 ← **[Quay lại README chính](../README.md)**
 
@@ -50,6 +50,10 @@ Mỗi file có format: `[number]-[story-name]-prompts.md`
 - [`36-lac-long-quan-dragon-king-prompts.md`](36-lac-long-quan-dragon-king-prompts.md)
 - [`37-birth-of-viet-nation-origin-saga-prompts.md`](37-birth-of-viet-nation-origin-saga-prompts.md)
 
+### **🎭 Tuyến Doomsday Saga**
+- [`38-the-iron-mask-doomsday-prompts.md`](38-the-iron-mask-doomsday-prompts.md)
+- [`39-the-secret-war-dai-la-prompts.md`](39-the-secret-war-dai-la-prompts.md)
+
 ### **🌑 Tuyến Phản Diện (Villains)**
 - [`18-the-voids-beginning-prompts.md`](18-the-voids-beginning-prompts.md)
 - [`19-the-broken-king-prompts.md`](19-the-broken-king-prompts.md)
@@ -61,8 +65,8 @@ Mỗi file có format: `[number]-[story-name]-prompts.md`
 
 ## 📊 Thống Kê
 
-- **Tổng số file:** 37 prompts
-- **Tổng số prompts:** **568** detailed prompts (tự kiểm chứng bằng `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l`)
+- **Tổng số file:** 39 prompts
+- **Tổng số prompts:** **620** detailed prompts (tự kiểm chứng bằng `grep -rhE "^\*\*Prompt:\*\*" prompts/ | wc -l`)
 - **Structure mỗi file:** mục tiêu 10 chapters × 2 prompts + EPILOGUE + POST-CREDIT (thực tế hiện tại 3–10 chapters / 16–46 prompts tùy file)
 - **Content:** Character designs, backgrounds, art style guidelines
 

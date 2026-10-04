@@ -1,7 +1,7 @@
 # Hướng dẫn đọc
 
-Vũ trụ gồm 37 truyện, chia làm **3 phase**. Bạn có thể đọc Phase 1 theo thứ tự
-bất kỳ; Phase 2 và 3 nên đọc tuần tự.
+Vũ trụ gồm 39 truyện, chia làm **4 phase**. Bạn có thể đọc Phase 1 theo thứ tự
+bất kỳ; Phase 2, 3 và 4 nên đọc tuần tự.
 
 ## Phase 1 — Origins (Nguồn gốc)
 
@@ -66,6 +66,13 @@ Các truyện kết nối các anh hùng lại với nhau. **Đọc theo thứ t
 35. [20 — The Dark Alliance](stories/20-the-dark-alliance.md)
 36. [16 — The Convergence](stories/16-the-convergence.md)
 37. [17 — The Eternal Council](stories/17-the-eternal-council.md)
+
+## Phase 4 — Doomsday Saga (Nghiệt Ngã)
+
+Saga crisis-event hai phần. **Đọc theo thứ tự, liền mạch.**
+
+38. [38 — The Iron Mask Doomsday](stories/38-the-iron-mask-doomsday.md)
+39. [39 — The Secret War of Đại La](stories/39-the-secret-war-dai-la.md)
 
 ---
 

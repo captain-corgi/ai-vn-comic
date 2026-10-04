@@ -55,6 +55,25 @@ mỗi biến thể mang một vai trò khác nhau trong cùng một arc.
 | Âu Cơ | Mother of Nation | Origin mother, divine bird | Fertility, nation-founding | [35](stories/35-au-co-mother-of-nation.md) | Origin realm |
 | Lạc Long Quân | Dragon King | Origin father, dragon lord | Water-dragon, ancestral sovereignty | [36](stories/36-lac-long-quan-dragon-king.md) | Origin realm |
 
+## 🎭 Doomsday Saga (38–39)
+
+| Tên VN | Romanisation | Vai trò | Năng lực | Xuất hiện lần đầu | Vũ trụ |
+|---|---|---|---|---|---|
+| Cao Biền | Thiết Diện / Thần Đế | Antagonist-tragic → God-Emperor → redeemed | Phép trấn yểm + toán học, Hình Nhân Sắt, mặt nạ sắt 14 tia nắng Đông Sơn | [38](stories/38-the-iron-mask-doomsday.md) | Đại La-1 → Đại La Giới |
+| Cao Lỗ | Cao Lỗ | Engineer-hero, bạn/thù của Biền | Nỏ Liên Châu — tên xuyên ranh giới thực tại | [38](stories/38-the-iron-mask-doomsday.md) | Đại La-1 |
+| Cao Ngân | Công Chúa Cao Ngân | Prodigy → royal scientist | Toán học thiên tài, đọc được phương trình ký ức | [38](stories/38-the-iron-mask-doomsday.md) | Đại La-1 → Đại La Giới |
+| Thanh Vân | Hoàng Hậu Thanh Vân | Healer → empress (memory-wiped) | Y thuật, chọn ở lại với người bị thương | [38](stories/38-the-iron-mask-doomsday.md) | Đại La-1 → Đại La Giới |
+| Thằng Bờm | Thằng Bờm | "Cửa cống" của đa vũ trụ | Kênh dẫn sức mạnh các thế giới bị tỉa; không ham muốn | [38](stories/38-the-iron-mask-doomsday.md) | Mọi vũ trụ |
+| Gióng Mười Bảy | Gióng Seventeen | Rookie Thiết Kỵ | Giáp sắt, ngựa sắt phun lửa | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Gióng Sắt Đen | Gióng-Corrupted (memory-wiped) | Đội trưởng Thiết Kỵ | Giáp đen nứt, kỵ binh sắt | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Đại Tướng Phù Đổng | Gióng Prime (memory-wiped) | Chỉ huy tối cao Thiết Kỵ | Giáp vàng, titan 30m | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Quốc Sư Bụt-Monk | Bụt-Monk (Quốc Sư) | Cố vấn của Thần Đế | Kết giới hoa sen; hóa thành cây tre già rồi nảy chồi | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Phú Ông (Trấn Tre) | Phú Ông | Lãnh chúa bị trấn thành Cột Trấn | Ký ức về thế giới cũ | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Hồ Tinh | Nine-Tailed Fox | Yêu hồ giữ linh hồn bà Diệp | Chín đuôi lửa xanh | [38](stories/38-the-iron-mask-doomsday.md) | Đại La-1 → Đại La Giới |
+| Chằn Tinh | Iron-Serpent | Quái vật vảy sắt | Sức mạnh khổng lồ | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Đại Bàng Tinh | Steel-Eagle | Quái vật cánh sắt | Thống lĩnh bầu trời | [39](stories/39-the-secret-war-dai-la.md) | Đại La Giới |
+| Lý Thông (variant) | Unredeemed Lý Thông | Phản diện chưa bao giờ hối hận | Kiếm thuật, thao túng | [39](stories/39-the-secret-war-dai-la.md) | Dead world → Đại La Giới |
+
 ## 🌑 Villains (Phản Diện)
 
 | Tên VN | Romanisation | Vai trò | Năng lực | Xuất hiện lần đầu | Vũ trụ |
